@@ -22,7 +22,9 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Run downloader script
-        run: ./download_races.sh
+        run: |
+          ./download_races.sh
+          ./download_bosses.sh
 
       - name: Commit and push to repo
         run: |
