@@ -27,6 +27,7 @@ jobs:
         run: |
           ./download_races.sh
           ./download_bosses.sh
+          ./download_odyssey.sh
 
       - name: Commit and push to repo
         run: |
