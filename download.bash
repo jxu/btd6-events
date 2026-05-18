@@ -1,13 +1,21 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-# unified downloader function
+# one downloader function to rule them all
 download_all() {
     local api_url="$1"
     local outdir="$2"
-    local jq_expr="$3"  # special jq expr to format curl config
+    local fields="$3"  # API JSON fields to further download
 
     mkdir -p "$outdir"
+
+    # output jq magic trims URL path to end part
+    local jq_expr='
+        .body[] |
+        '"$fields"' |
+        "url = " + .,
+        "output = "+((./"/")[4:] | join("/")) + ".json"
+    '
 
     # fetch index JSON and generate curl config string
     local curlconfig
@@ -31,49 +39,34 @@ download_all() {
     xargs -I{} sh -c 'jq . "{}" | sponge "{}"'
 }
 
-# specific API fields to use
- 
-download_bosses() {
-    download_all \
-        "https://data.ninjakiwi.com/btd6/bosses" \
-        "bosses" \
-        '.body[] |
-         .leaderboard_standard_players_1,
-         .leaderboard_elite_players_1,
-         .metadataStandard,
-         .metadataElite |
-         "url = "+.,
-         "output = "+((./"/")[4:] | join("/"))+".json"'
-}
-
-download_races() {
-    download_all \
-        "https://data.ninjakiwi.com/btd6/races" \
-        "races" \
-        '.body[] |
-         .leaderboard,
-         .metadata |
-         "url = "+.,
-         "output = "+((./"/")[4:] | join("/"))+".json"'
-}
-
-download_odyssey() {
-    download_all \
-        "https://data.ninjakiwi.com/btd6/odyssey" \
-        "odyssey" \
-        '.body[] |
-         .metadata_easy,
-         .metadata_medium,
-         .metadata_hard |
-         "url = "+.,
-         "output = "+((./"/")[4:] | join("/"))+".json"'
-}
 
 # for fun: user input
+# for each API, only the fields change
 case "${1:-}" in
-    bosses)     download_bosses ;;
-    races)      download_races ;;
-    odyssey)    download_odyssey ;;
+    bosses)
+        download_all \
+            "https://data.ninjakiwi.com/btd6/bosses" \
+            "bosses" \
+            '.leaderboard_standard_players_1,
+             .leaderboard_elite_players_1,
+             .metadataStandard,
+             .metadataElite'
+        ;;
+    races)
+        download_all \
+            "https://data.ninjakiwi.com/btd6/races" \
+            "races" \
+            '.leaderboard,
+             .metadata'
+        ;;
+    odyssey)
+        download_all \
+            "https://data.ninjakiwi.com/btd6/odyssey" \
+            "odyssey" \
+            '.metadata_easy,
+             .metadata_medium,
+             .metadata_hard'
+        ;;
     *)
         echo "Usage: $0 {bosses|races|odyssey}"
         exit 1
