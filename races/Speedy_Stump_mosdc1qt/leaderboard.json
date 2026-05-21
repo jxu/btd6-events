@@ -39,24 +39,6 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9ced11dfdb92fea41b4ad94e5675e474cd014fb4cc138a3b"
     },
     {
-      "displayName": "ISAB",
-      "score": 138400,
-      "scoreParts": [
-        {
-          "type": "time",
-          "score": 138400,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 313709000,
-          "name": "Time after event start"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fbb12deda93f1f01d4a891f5e76e5719e0348e89742df69"
-    },
-    {
       "displayName": "OG_Gamer2012",
       "score": 138417,
       "scoreParts": [
@@ -93,7 +75,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb612de8a90a8ac1a43da1d5926b07fce0615ee96438a6a"
     },
     {
-      "displayName": "Vengeance",
+      "displayName": "HS IS A CLOWN",
       "score": 146200,
       "scoreParts": [
         {
@@ -327,7 +309,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9ced1583db93a8f74e11db4b097bb27ecb0018e998438e6d"
     },
     {
-      "displayName": "A-Z",
+      "displayName": "IMicroBad",
       "score": 159233,
       "scoreParts": [
         {
@@ -417,7 +399,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9ceb16d88e97aba61d10dd480e73ef25cb0449bfca11df3d"
     },
     {
-      "displayName": "YellowAllies",
+      "displayName": "Golf5R32",
       "score": 162350,
       "scoreParts": [
         {
@@ -669,7 +651,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb946dedb9ef1f01f17dd1f0a71b27599501ce99813893d"
     },
     {
-      "displayName": "ISAB",
+      "displayName": "Mage",
       "score": 165183,
       "scoreParts": [
         {
@@ -741,7 +723,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb912d9df95fef44c448b435920e071c8054cbf98118e38"
     },
     {
-      "displayName": "beanedeaton",
+      "displayName": "I am... atomic",
       "score": 166150,
       "scoreParts": [
         {
@@ -901,6 +883,24 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbf138c8bc3f9a51f178b1d5971e175ce0118beca45db6a"
+    },
+    {
+      "displayName": "iSlester",
+      "score": 169417,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 169417,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 322907000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbc1f88db91fba51e178d4a0b21ef75c8561db5cf46d039"
     }
   ],
   "model": {

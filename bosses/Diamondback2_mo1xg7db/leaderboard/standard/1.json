@@ -118,7 +118,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbc108cd796a8a61d17db1d0b25e5729e5714bdcf14de39"
     },
     {
-      "displayName": "Vengeance",
+      "displayName": "HS IS A CLOWN",
       "score": 5,
       "scoreParts": [
         {
@@ -187,7 +187,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbf43d9d796aaac1c41de4e5e7be672cc511aeacc138a39"
     },
     {
-      "displayName": "nah",
+      "displayName": "Bjorn",
       "score": 5,
       "scoreParts": [
         {
@@ -208,29 +208,6 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbc458c899efba51d1388195d76b573c9064be99a44da3e"
-    },
-    {
-      "displayName": "ISAB",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "number",
-          "score": 163240,
-          "name": "Least Cash"
-        },
-        {
-          "type": "time",
-          "score": 1870100,
-          "name": "Game Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fbb12deda93f1f01d4a891f5e76e5719e0348e89742df69"
     },
     {
       "displayName": "sauceman",
@@ -576,6 +553,29 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbf16dd8bc5afad1e438c4e5671e771ca044bb89943de31"
+    },
+    {
+      "displayName": "River",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "number",
+          "score": 169340,
+          "name": "Least Cash"
+        },
+        {
+          "type": "time",
+          "score": 1520200,
+          "name": "Game Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbb468ad89eaaf44d418b4d567ab2739e5619ea9e12d83e"
     }
   ],
   "model": {

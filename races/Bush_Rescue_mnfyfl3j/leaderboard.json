@@ -129,7 +129,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9ceb41de8a94f8a61c4b8f4a097be173c9071cea9c10db69"
     },
     {
-      "displayName": "Vengeance",
+      "displayName": "HS IS A CLOWN",
       "score": 165367,
       "scoreParts": [
         {
@@ -345,24 +345,6 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fba1fda8c90faf11c44da4e5f26b27fcb561fb999158c3a"
     },
     {
-      "displayName": "ISAB",
-      "score": 170500,
-      "scoreParts": [
-        {
-          "type": "time",
-          "score": 170500,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 325990000,
-          "name": "Time after event start"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fbb12deda93f1f01d4a891f5e76e5719e0348e89742df69"
-    },
-    {
       "displayName": "wellordering",
       "score": 170983,
       "scoreParts": [
@@ -399,7 +381,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fba1683dd97fda64c438e4d5c72e0219d0d1cb49812d169"
     },
     {
-      "displayName": "ISAB",
+      "displayName": "Mage",
       "score": 171317,
       "scoreParts": [
         {
@@ -543,7 +525,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb7118a89c2f0a04d418f185d70e371cb5718b59b46d06a"
     },
     {
-      "displayName": "YellowAllies",
+      "displayName": "Golf5R32",
       "score": 172667,
       "scoreParts": [
         {
@@ -901,6 +883,24 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9ce942888dc3fead4b1189485d75e77eca014eb89f15896e"
+    },
+    {
+      "displayName": "Ellu",
+      "score": 179617,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 179617,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 299542000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb815d9d691f1a1494b8c490d76e6229a051ab8ca138a6a"
     }
   ],
   "model": {

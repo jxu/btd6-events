@@ -4,24 +4,6 @@
   "body": [
     {
       "displayName": "ISAB",
-      "score": 148250,
-      "scoreParts": [
-        {
-          "type": "time",
-          "score": 148250,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 317981000,
-          "name": "Time after event start"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fbb12deda93f1f01d4a891f5e76e5719e0348e89742df69"
-    },
-    {
-      "displayName": "ISAB",
       "score": 151033,
       "scoreParts": [
         {
@@ -129,7 +111,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9ced108c8e93faa54b46da4d5626b723cd004eeacd10de3d"
     },
     {
-      "displayName": "Vengeance",
+      "displayName": "HS IS A CLOWN",
       "score": 161500,
       "scoreParts": [
         {
@@ -255,7 +237,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9ced1f83dac5ada61e16da435c71b070c9521eb89c13d830"
     },
     {
-      "displayName": "ISAB",
+      "displayName": "Mage",
       "score": 164467,
       "scoreParts": [
         {
@@ -597,7 +579,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9cea16d98dc3faac194b8b4b0a70e770995215ea9a448e3e"
     },
     {
-      "displayName": "YellowAllies",
+      "displayName": "Golf5R32",
       "score": 169417,
       "scoreParts": [
         {
@@ -901,6 +883,24 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9cea4183dc93afa34b458a190d26e574cc561aba9c128c3f"
+    },
+    {
+      "displayName": "Gibson",
+      "score": 175717,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 175717,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 291530000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbc43dddfc5a8ac1d16881e5721e37eca504fb89610d839"
     }
   ],
   "model": {

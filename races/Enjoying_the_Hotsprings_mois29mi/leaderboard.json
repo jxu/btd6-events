@@ -57,24 +57,6 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9ced11dfdb92fea41b4ad94e5675e474cd014fb4cc138a3b"
     },
     {
-      "displayName": "ISAB",
-      "score": 140350,
-      "scoreParts": [
-        {
-          "type": "time",
-          "score": 140350,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 151358000,
-          "name": "Time after event start"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fbb12deda93f1f01d4a891f5e76e5719e0348e89742df69"
-    },
-    {
       "displayName": "Slerf",
       "score": 141367,
       "scoreParts": [
@@ -147,7 +129,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb843dd8d9eadf34b47dd1a0b21e77fcb551abacf168b69"
     },
     {
-      "displayName": "Vengeance",
+      "displayName": "HS IS A CLOWN",
       "score": 143633,
       "scoreParts": [
         {
@@ -201,7 +183,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb61389dc95fca6184a8e1e0921e624c85548b99c42d86a"
     },
     {
-      "displayName": "beanedeaton",
+      "displayName": "I am... atomic",
       "score": 146300,
       "scoreParts": [
         {
@@ -579,7 +561,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb746828c9ef8a61e45881f5b26ef23cd5019b49710d86d"
     },
     {
-      "displayName": "ISAB",
+      "displayName": "Mage",
       "score": 150050,
       "scoreParts": [
         {
@@ -723,7 +705,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb646d8d99efca54c4ada4a5d22e322cf061bbf97128c3a"
     },
     {
-      "displayName": "YellowAllies",
+      "displayName": "Golf5R32",
       "score": 150900,
       "scoreParts": [
         {
@@ -901,6 +883,24 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbc1f88db91fba51e178d4a0b21ef75c8561db5cf46d039"
+    },
+    {
+      "displayName": "Starbound",
+      "score": 152283,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 152283,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 210031000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb6438bd9c3fcf01e45dc480b75e771c8501bb49f45da30"
     }
   ],
   "model": {
