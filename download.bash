@@ -21,6 +21,7 @@ download_all() {
     local curlconfig
     curlconfig=$(
         curl "$api_url" |
+        jq . |  # pretty-print output
         tee "$outdir/${outdir}$(date +%Y%m%d).json" |
         jq -r "$jq_expr"
     )
