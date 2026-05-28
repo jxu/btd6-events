@@ -13,12 +13,12 @@
         },
         {
           "type": "number",
-          "score": 224805,
+          "score": 570425,
           "name": "Least Cash"
         },
         {
           "type": "time",
-          "score": 3604300,
+          "score": 3405900,
           "name": "Game Time"
         }
       ],
@@ -26,7 +26,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb815de8bc3f9f31810dc4d0b22e171cd024cb59f13de3f"
     },
     {
-      "displayName": "bill_door",
+      "displayName": "mili1000",
       "score": 5,
       "scoreParts": [
         {
@@ -36,20 +36,20 @@
         },
         {
           "type": "number",
-          "score": 227070,
+          "score": 571520,
           "name": "Least Cash"
         },
         {
           "type": "time",
-          "score": 1962700,
+          "score": 3577700,
           "name": "Game Time"
         }
       ],
       "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fbc43dfdcc5fcac194a8a4b5d76e423cd5719edc817d86a"
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbc1ed9d7c5acf31a46d94d0922b272c5574bbc9c158e6a"
     },
     {
-      "displayName": "lost control",
+      "displayName": "femboydaviduwu",
       "score": 5,
       "scoreParts": [
         {
@@ -59,20 +59,20 @@
         },
         {
           "type": "number",
-          "score": 227195,
+          "score": 571585,
           "name": "Least Cash"
         },
         {
           "type": "time",
-          "score": 1883500,
+          "score": 3299600,
           "name": "Game Time"
         }
       ],
       "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fbc108cd796a8a61d17db1d0b25e5729e5714bdcf14de39"
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbc44828cc4f9ac1a4a881f577bb276c90014b99d14df6e"
     },
     {
-      "displayName": "the cure",
+      "displayName": "EndP_MuC",
       "score": 5,
       "scoreParts": [
         {
@@ -82,20 +82,20 @@
         },
         {
           "type": "number",
-          "score": 228545,
+          "score": 572635,
           "name": "Least Cash"
         },
         {
           "type": "time",
-          "score": 1556200,
+          "score": 3337600,
           "name": "Game Time"
         }
       ],
       "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fbf43d9d796aaac1c41de4e5e7be672cc511aeacc138a39"
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbb42dfd6c2f8f04e16864a0c75ee769d511eb5ca41d938"
     },
     {
-      "displayName": "Lawrence",
+      "displayName": "MehalicPops",
       "score": 5,
       "scoreParts": [
         {
@@ -105,155 +105,17 @@
         },
         {
           "type": "number",
-          "score": 230220,
+          "score": 573035,
           "name": "Least Cash"
         },
         {
           "type": "time",
-          "score": 1571300,
+          "score": 3418800,
           "name": "Game Time"
         }
       ],
       "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fb8418e8cc5f1f449468f180c20e374c95048bf9f13d16d"
-    },
-    {
-      "displayName": "SupremeAvocado",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "number",
-          "score": 237660,
-          "name": "Least Cash"
-        },
-        {
-          "type": "time",
-          "score": 1412300,
-          "name": "Game Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9cb812d8dd94ffa31f40d9430d22b726cc0d19b497198b30"
-    },
-    {
-      "displayName": "wucstdio",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "number",
-          "score": 253700,
-          "name": "Least Cash"
-        },
-        {
-          "type": "time",
-          "score": 860600,
-          "name": "Game Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fbe11dadbc3fda21d458a4f5a26e27e9e0d1abeca43d13d"
-    },
-    {
-      "displayName": "feng_junzi",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "number",
-          "score": 254760,
-          "name": "Least Cash"
-        },
-        {
-          "type": "time",
-          "score": 796500,
-          "name": "Game Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fb6448bd691fca11041dd420e20e1779e561cb99a14d83a"
-    },
-    {
-      "displayName": "Main",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "number",
-          "score": 254805,
-          "name": "Least Cash"
-        },
-        {
-          "type": "time",
-          "score": 767100,
-          "name": "Game Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fbb4382dc92fff019138a1a5a7bb7759f571ceecf198c3d"
-    },
-    {
-      "displayName": "Jay!",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "number",
-          "score": 254905,
-          "name": "Least Cash"
-        },
-        {
-          "type": "time",
-          "score": 885200,
-          "name": "Game Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fb61189d79effad1b45dc1d5922e476ce5515b4ca10db3b"
-    },
-    {
-      "displayName": "supernf",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "number",
-          "score": 255155,
-          "name": "Least Cash"
-        },
-        {
-          "type": "time",
-          "score": 1003900,
-          "name": "Game Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fb91383dbc7fca74b118b4e0c21b7249a521ce89645893d"
+      "profile": "https://data.ninjakiwi.com/btd6/users/9cb942d8d7c2ada01b44db1f0b20b47ecc0d15b8c845df6d"
     },
     {
       "displayName": "i eat soap",
@@ -266,12 +128,12 @@
         },
         {
           "type": "number",
-          "score": 255900,
+          "score": 574160,
           "name": "Least Cash"
         },
         {
           "type": "time",
-          "score": 1363400,
+          "score": 3412900,
           "name": "Game Time"
         }
       ],
@@ -279,7 +141,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbd1589d894ada34e4b891f5920e0269e5714b59c138e3e"
     },
     {
-      "displayName": "Pavel_Bure",
+      "displayName": "dlsabkls",
       "score": 5,
       "scoreParts": [
         {
@@ -289,20 +151,20 @@
         },
         {
           "type": "number",
-          "score": 260085,
+          "score": 576330,
           "name": "Least Cash"
         },
         {
           "type": "time",
-          "score": 1444300,
+          "score": 3488400,
           "name": "Game Time"
         }
       ],
       "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fbc138fdec3f1a51044d9425726b47ecb501eb89f12d931"
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb71fd88cc4acf04b458c4d0a74e07fcf0714ba9b438d30"
     },
     {
-      "displayName": "xingkongqwq",
+      "displayName": "the cure",
       "score": 5,
       "scoreParts": [
         {
@@ -312,20 +174,20 @@
         },
         {
           "type": "number",
-          "score": 260650,
+          "score": 577570,
           "name": "Least Cash"
         },
         {
           "type": "time",
-          "score": 823800,
+          "score": 3552200,
           "name": "Game Time"
         }
       ],
       "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fb61683d792a8ac4c4bda4d5871e470cd5049b89845df6c"
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbf43d9d796aaac1c41de4e5e7be672cc511aeacc138a39"
     },
     {
-      "displayName": "Phatbeet2002",
+      "displayName": "lucy",
       "score": 5,
       "scoreParts": [
         {
@@ -335,20 +197,20 @@
         },
         {
           "type": "number",
-          "score": 264060,
+          "score": 579540,
           "name": "Least Cash"
         },
         {
           "type": "time",
-          "score": 839200,
+          "score": 3564600,
           "name": "Game Time"
         }
       ],
       "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fb6178889c0aaa34d108f4a0d70e322cd051eef96118c3f"
+      "profile": "https://data.ninjakiwi.com/btd6/users/9cec1fd98c93adf01e1088185f22b324ca5649e89c41de30"
     },
     {
-      "displayName": "EliteMaster4523",
+      "displayName": "Karler",
       "score": 5,
       "scoreParts": [
         {
@@ -358,20 +220,20 @@
         },
         {
           "type": "number",
-          "score": 266015,
+          "score": 579890,
           "name": "Least Cash"
         },
         {
           "type": "time",
-          "score": 959300,
+          "score": 3391700,
           "name": "Game Time"
         }
       ],
       "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fb817d9d997adac1b468d4b0a22b376cb034cba9610db3a"
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbc458c899efba51d1388195d76b573c9064be99a44da3e"
     },
     {
-      "displayName": "FreeDartMonkey",
+      "displayName": "ShredderL5",
       "score": 5,
       "scoreParts": [
         {
@@ -381,20 +243,20 @@
         },
         {
           "type": "number",
-          "score": 267410,
+          "score": 580745,
           "name": "Least Cash"
         },
         {
           "type": "time",
-          "score": 1073800,
+          "score": 3282500,
           "name": "Game Time"
         }
       ],
       "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fba11dadbc4aff04b4287490d75ee709a0c1cb499148d6a"
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbd1589d790aaa51917de1a5877e270cb041fbccc10d030"
     },
     {
-      "displayName": "Poi",
+      "displayName": "lazylizard",
       "score": 5,
       "scoreParts": [
         {
@@ -404,20 +266,20 @@
         },
         {
           "type": "number",
-          "score": 269145,
+          "score": 581490,
           "name": "Least Cash"
         },
         {
           "type": "time",
-          "score": 1283500,
+          "score": 3343100,
           "name": "Game Time"
         }
       ],
       "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fb6118ddcc2fcf7184add1e0974ee71980d1ebe9617dd6a"
+      "profile": "https://data.ninjakiwi.com/btd6/users/9ceb13df8dc4fca31a46864c5926e7259a5648e9c845df3b"
     },
     {
-      "displayName": "Player",
+      "displayName": "Za Goul",
       "score": 5,
       "scoreParts": [
         {
@@ -427,20 +289,20 @@
         },
         {
           "type": "number",
-          "score": 270725,
+          "score": 581795,
           "name": "Least Cash"
         },
         {
           "type": "time",
-          "score": 783000,
+          "score": 3285000,
           "name": "Game Time"
         }
       ],
       "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fb81e8f8cc4abf41f43db1a5e74e77499011cba9c448a3d"
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbc16d88bc4fead1e43dd1d5a72b773cb001ceac8418a30"
     },
     {
-      "displayName": "KIRKification",
+      "displayName": "YT LokiBTD",
       "score": 5,
       "scoreParts": [
         {
@@ -450,20 +312,20 @@
         },
         {
           "type": "number",
-          "score": 271280,
+          "score": 582850,
           "name": "Least Cash"
         },
         {
           "type": "time",
-          "score": 1161800,
+          "score": 3312600,
           "name": "Game Time"
         }
       ],
       "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fba118ddf9ef1a34b17864b0927b774cd521ab59a14d96a"
+      "profile": "https://data.ninjakiwi.com/btd6/users/9ce9118fd796faf610478f4a5a71e2769d014fe9cd43893f"
     },
     {
-      "displayName": "River",
+      "displayName": "DartPhoenix846",
       "score": 5,
       "scoreParts": [
         {
@@ -473,20 +335,20 @@
         },
         {
           "type": "number",
-          "score": 271604,
+          "score": 585540,
           "name": "Least Cash"
         },
         {
           "type": "time",
-          "score": 1162600,
+          "score": 3403100,
           "name": "Game Time"
         }
       ],
       "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fbb468ad89eaaf44d418b4d567ab2739e5619ea9e12d83e"
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbd458d8c9fadad19408e1f5d74b57398001bb59717d86d"
     },
     {
-      "displayName": "kitty",
+      "displayName": "wucstdio",
       "score": 5,
       "scoreParts": [
         {
@@ -496,20 +358,20 @@
         },
         {
           "type": "number",
-          "score": 272505,
+          "score": 589755,
           "name": "Least Cash"
         },
         {
           "type": "time",
-          "score": 1289300,
+          "score": 3269000,
           "name": "Game Time"
         }
       ],
       "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fbf128dd791faad1f40dd490927e576c40d4eef9e45893d"
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbe11dadbc3fda21d458a4f5a26e27e9e0d1abeca43d13d"
     },
     {
-      "displayName": "abrahammohsen",
+      "displayName": "ClerklierB",
       "score": 5,
       "scoreParts": [
         {
@@ -519,20 +381,20 @@
         },
         {
           "type": "number",
-          "score": 272795,
+          "score": 589880,
           "name": "Least Cash"
         },
         {
           "type": "time",
-          "score": 1251800,
+          "score": 3606100,
           "name": "Game Time"
         }
       ],
       "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fb8118bda9ffff71810db420a21ef249f0549e99f13dd6e"
+      "profile": "https://data.ninjakiwi.com/btd6/users/9cb845da8cc0f8a31b108a4f0e21b574ca521ae89f45d83d"
     },
     {
-      "displayName": "ZooL",
+      "displayName": "ValiantBadger57",
       "score": 5,
       "scoreParts": [
         {
@@ -542,20 +404,20 @@
         },
         {
           "type": "number",
-          "score": 274170,
+          "score": 592505,
           "name": "Least Cash"
         },
         {
           "type": "time",
-          "score": 1204000,
+          "score": 3280000,
           "name": "Game Time"
         }
       ],
       "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fbb4688dbc5aba249118a4f597ae170980748b49c45de3f"
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fba11d88a94adf41d468c425d77e27498061cbe9f148c3a"
     },
     {
-      "displayName": "OliveKnight1506",
+      "displayName": "AAAAAAAAAAA",
       "score": 5,
       "scoreParts": [
         {
@@ -565,17 +427,155 @@
         },
         {
           "type": "number",
-          "score": 274780,
+          "score": 593185,
           "name": "Least Cash"
         },
         {
           "type": "time",
-          "score": 1218700,
+          "score": 3363000,
           "name": "Game Time"
         }
       ],
       "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fb7418a8b93fbf61e17de4d0e7ae621c4574bbacf428e6b"
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbf16dd8bc5afad1e438c4e5671e771ca044bb89943de31"
+    },
+    {
+      "displayName": "SolAureus",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "number",
+          "score": 593345,
+          "name": "Least Cash"
+        },
+        {
+          "type": "time",
+          "score": 3230600,
+          "name": "Game Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbb4488db90a8ad1e16dd4c5825e324980d18be9a458d3f"
+    },
+    {
+      "displayName": "Warhax_Bread",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "number",
+          "score": 595730,
+          "name": "Least Cash"
+        },
+        {
+          "type": "time",
+          "score": 3227900,
+          "name": "Game Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb8428bda9ffff11d168b495b22b572cf061fbbcc13da6d"
+    },
+    {
+      "displayName": "King Knolle",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "number",
+          "score": 596440,
+          "name": "Least Cash"
+        },
+        {
+          "type": "time",
+          "score": 3286700,
+          "name": "Game Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbd12de8991abf34b138a4f5820e771cb501cbccb17d83c"
+    },
+    {
+      "displayName": "Mitschi100",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "number",
+          "score": 596475,
+          "name": "Least Cash"
+        },
+        {
+          "type": "time",
+          "score": 3463900,
+          "name": "Game Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbd108adb93faa7111386185a77e670c5061de8ca18dd3c"
+    },
+    {
+      "displayName": "BARON",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "number",
+          "score": 597170,
+          "name": "Least Cash"
+        },
+        {
+          "type": "time",
+          "score": 2539800,
+          "name": "Game Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbe14d98ac4fff31f42dd435f25e576c5561fee9b43db3a"
+    },
+    {
+      "displayName": "Cirrus Minor",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "number",
+          "score": 597545,
+          "name": "Least Cash"
+        },
+        {
+          "type": "time",
+          "score": 3378000,
+          "name": "Game Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbc168e8dc3f1f34a458a4c0922e27e99011eea9b438a6a"
     }
   ],
   "model": {
@@ -603,7 +603,7 @@
       }
     }
   },
-  "next": "https://data.ninjakiwi.com/btd6/bosses/Lych58_movuafva/leaderboard/standard/1?page=2",
+  "next": "https://data.ninjakiwi.com/btd6/bosses/Diamondback5_mpfz8mi4/leaderboard/elite/1?page=2",
   "prev": null,
   "maxPages": 40
 }

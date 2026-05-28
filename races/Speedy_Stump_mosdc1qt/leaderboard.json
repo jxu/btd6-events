@@ -75,7 +75,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb612de8a90a8ac1a43da1d5926b07fce0615ee96438a6a"
     },
     {
-      "displayName": "HS IS A CLOWN",
+      "displayName": "TROLLI DAD LOL",
       "score": 146200,
       "scoreParts": [
         {
@@ -93,7 +93,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb7458fd794aba51817884d5e72e472ca031de99f14d83b"
     },
     {
-      "displayName": "drop dead",
+      "displayName": "the cure",
       "score": 146483,
       "scoreParts": [
         {
@@ -129,7 +129,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9ced108c8e93faa54b46da4d5626b723cd004eeacd10de3d"
     },
     {
-      "displayName": "Raider",
+      "displayName": "Unemployed",
       "score": 151033,
       "scoreParts": [
         {
@@ -147,7 +147,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbe158a8e97f0ad1c468b480c74e575cd561dea9a45dd30"
     },
     {
-      "displayName": "FainterTwT",
+      "displayName": "Fainter >:3",
       "score": 152333,
       "scoreParts": [
         {
@@ -543,7 +543,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9ced158ad6c5faf64d408e1e5f22b424cd0148b99a46d96e"
     },
     {
-      "displayName": "cheater no mom",
+      "displayName": "hiding",
       "score": 164233,
       "scoreParts": [
         {
@@ -615,24 +615,6 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb917828cc2f8a01a10891d0d76ee7f9a0d48ee9c41dd6b"
     },
     {
-      "displayName": "TheDoctor",
-      "score": 164683,
-      "scoreParts": [
-        {
-          "type": "time",
-          "score": 164683,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 301884000,
-          "name": "Time after event start"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fb642d9d7c2fca21e1789485777b573c9551fbb9b11de39"
-    },
-    {
       "displayName": "ricardo",
       "score": 164817,
       "scoreParts": [
@@ -651,7 +633,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb946dedb9ef1f01f17dd1f0a71b27599501ce99813893d"
     },
     {
-      "displayName": "Mage",
+      "displayName": "Aphmau - YT",
       "score": 165183,
       "scoreParts": [
         {
@@ -687,7 +669,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9cb715d9ddc4faf31d4b864a0a73e524ca001ded9d17d96e"
     },
     {
-      "displayName": "Marcel",
+      "displayName": "Maarcii",
       "score": 165883,
       "scoreParts": [
         {
@@ -723,7 +705,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb912d9df95fef44c448b435920e071c8054cbf98118e38"
     },
     {
-      "displayName": "I am... atomic",
+      "displayName": "bloonbustbang",
       "score": 166150,
       "scoreParts": [
         {
@@ -777,7 +759,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb91f8bddc5fba61d13dd190b71e47f9d044cb99b14dd6d"
     },
     {
-      "displayName": "Magnite",
+      "displayName": "Magic",
       "score": 166983,
       "scoreParts": [
         {
@@ -901,6 +883,24 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbc1f88db91fba51e178d4a0b21ef75c8561db5cf46d039"
+    },
+    {
+      "displayName": "WhiteDay",
+      "score": 169500,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 169500,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 147969000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb71283de91fff34d4ad9490e7ab77ecf0119bc9c108a69"
     }
   ],
   "model": {

@@ -75,7 +75,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbf138c8bc3f9a51f178b1d5971e175ce0118beca45db6a"
     },
     {
-      "displayName": "drop dead",
+      "displayName": "the cure",
       "score": 141733,
       "scoreParts": [
         {
@@ -129,7 +129,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb843dd8d9eadf34b47dd1a0b21e77fcb551abacf168b69"
     },
     {
-      "displayName": "HS IS A CLOWN",
+      "displayName": "TROLLI DAD LOL",
       "score": 143633,
       "scoreParts": [
         {
@@ -183,7 +183,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb61389dc95fca6184a8e1e0921e624c85548b99c42d86a"
     },
     {
-      "displayName": "I am... atomic",
+      "displayName": "bloonbustbang",
       "score": 146300,
       "scoreParts": [
         {
@@ -273,7 +273,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb81ed9dd93abf349118d4d0e72e770980714bbcb13dc39"
     },
     {
-      "displayName": "FainterTwT",
+      "displayName": "Fainter >:3",
       "score": 147600,
       "scoreParts": [
         {
@@ -489,24 +489,6 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9ce9428c8b97aaf749118c4e5d73e77f9e5719ba9a45dc31"
     },
     {
-      "displayName": "TheDoctor",
-      "score": 149400,
-      "scoreParts": [
-        {
-          "type": "time",
-          "score": 149400,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 290570000,
-          "name": "Time after event start"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fb642d9d7c2fca21e1789485777b573c9551fbb9b11de39"
-    },
-    {
       "displayName": "Corpse Golemer",
       "score": 149700,
       "scoreParts": [
@@ -561,7 +543,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb746828c9ef8a61e45881f5b26ef23cd5019b49710d86d"
     },
     {
-      "displayName": "Mage",
+      "displayName": "Aphmau - YT",
       "score": 150050,
       "scoreParts": [
         {
@@ -901,6 +883,24 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb6438bd9c3fcf01e45dc480b75e771c8501bb49f45da30"
+    },
+    {
+      "displayName": "ElainA",
+      "score": 152400,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 152400,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 110113000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb9158cd696f0ad4a10db1d5976b423cd5548be9d118a30"
     }
   ],
   "model": {
