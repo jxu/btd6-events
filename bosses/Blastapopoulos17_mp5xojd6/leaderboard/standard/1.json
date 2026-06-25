@@ -95,29 +95,6 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbb14de8cc0fbf64e148b480977e57499504eed9e13896b"
     },
     {
-      "displayName": "RainDance",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "number",
-          "score": 144075,
-          "name": "Least Cash"
-        },
-        {
-          "type": "time",
-          "score": 1984400,
-          "name": "Game Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fbd10d98e9efba01d408d4c5b25e424c45748bcc814d86b"
-    },
-    {
       "displayName": "stupid song",
       "score": 5,
       "scoreParts": [
@@ -187,7 +164,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9cb942d8d7c2ada01b44db1f0b20b47ecc0d15b8c845df6d"
     },
     {
-      "displayName": "5-1",
+      "displayName": ":.:.:.:.:.:.:.",
       "score": 5,
       "scoreParts": [
         {
@@ -417,7 +394,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbb44ddd797f9f31d4487195626b3779a054bb59e18dd38"
     },
     {
-      "displayName": "Dokkilux",
+      "displayName": "Azriollo",
       "score": 5,
       "scoreParts": [
         {
@@ -576,6 +553,29 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fba1682db9ff1a41b118d425c7ab225cd571dbe9f158d31"
+    },
+    {
+      "displayName": "Calone",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "number",
+          "score": 189585,
+          "name": "Least Cash"
+        },
+        {
+          "type": "time",
+          "score": 2379200,
+          "name": "Game Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9cb910df8e9ffda119408d4a5e27b726cf004eea9846d13d"
     }
   ],
   "model": {

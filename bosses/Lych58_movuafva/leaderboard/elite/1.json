@@ -3,7 +3,7 @@
   "success": true,
   "body": [
     {
-      "displayName": "5-1",
+      "displayName": ":.:.:.:.:.:.:.",
       "score": 5,
       "scoreParts": [
         {
@@ -227,7 +227,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9cb91089ddc5fea31f468c195e70b426cc0d1abe9d44da69"
     },
     {
-      "displayName": "Storyteller",
+      "displayName": "SeeRukio",
       "score": 5,
       "scoreParts": [
         {
@@ -421,34 +421,6 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9cb6178ddcc7f9f01a4a874c5d25e726cc5548be97468b6a"
-    },
-    {
-      "displayName": "RainDance",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "number",
-          "score": 50,
-          "name": "Tier Count"
-        },
-        {
-          "type": "time",
-          "score": 2105800,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 173928000,
-          "name": "Submission Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fbd10d98e9efba01d408d4c5b25e424c45748bcc814d86b"
     },
     {
       "displayName": "Bobbyphilip",
@@ -701,6 +673,34 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb846d8db95fbf61d438a190b7be67eca054ebec811d83f"
+    },
+    {
+      "displayName": "iSlester",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "number",
+          "score": 56,
+          "name": "Tier Count"
+        },
+        {
+          "type": "time",
+          "score": 1458500,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 304164000,
+          "name": "Submission Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbc1f88db91fba51e178d4a0b21ef75c8561db5cf46d039"
     }
   ],
   "model": {

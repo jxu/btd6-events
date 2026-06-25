@@ -453,7 +453,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb616ded997aaa01c43884d0a7ab4249e571aea9b438e69"
     },
     {
-      "displayName": "Set On",
+      "displayName": "Notes",
       "score": 140133,
       "scoreParts": [
         {
@@ -759,24 +759,6 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbd418adc91a8a21f458f4e0d76b524cb031be9ca43df3c"
     },
     {
-      "displayName": "TOP1 VIET NAM",
-      "score": 146567,
-      "scoreParts": [
-        {
-          "type": "time",
-          "score": 146567,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 308954000,
-          "name": "Time after event start"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fee168edd91a8f01043de4a5674e1229a014bbb9c188e3c"
-    },
-    {
       "displayName": "LL",
       "score": 146733,
       "scoreParts": [
@@ -901,6 +883,24 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb6438adcc2fea44e4b8a4d5775ee74c9001ebcc811d169"
+    },
+    {
+      "displayName": "WhiteDay",
+      "score": 148883,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 148883,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 117701000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb71283de91fff34d4ad9490e7ab77ecf0119bc9c108a69"
     }
   ],
   "model": {

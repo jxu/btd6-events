@@ -87,7 +87,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb71fd88cc4acf04b458c4d0a74e07fcf0714ba9b438d30"
     },
     {
-      "displayName": "5-1",
+      "displayName": ":.:.:.:.:.:.:.",
       "score": 5,
       "scoreParts": [
         {
@@ -143,7 +143,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbb42dfd6c2f8f04e16864a0c75ee769d511eb5ca41d938"
     },
     {
-      "displayName": "Storyteller",
+      "displayName": "SeeRukio",
       "score": 5,
       "scoreParts": [
         {
@@ -169,34 +169,6 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbd14ded696aba54c478a1e0b72e223980115bc99148d31"
-    },
-    {
-      "displayName": "RainDance",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "number",
-          "score": 57,
-          "name": "Tier Count"
-        },
-        {
-          "type": "time",
-          "score": 1860800,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 166644000,
-          "name": "Submission Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fbd10d98e9efba01d408d4c5b25e424c45748bcc814d86b"
     },
     {
       "displayName": "River",
@@ -563,7 +535,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb6138d8d95aca11c138b1f0b20e124c80114b89a10dd3f"
     },
     {
-      "displayName": "BT LEONARDO",
+      "displayName": "D MARK",
       "score": 5,
       "scoreParts": [
         {
@@ -701,6 +673,34 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fba108adc93afac1b46da1d5970e224cf061db9ca13de6e"
+    },
+    {
+      "displayName": "Horizon",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "number",
+          "score": 62,
+          "name": "Tier Count"
+        },
+        {
+          "type": "time",
+          "score": 1822700,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 186402000,
+          "name": "Submission Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbb44ddd797f9f31d4487195626b3779a054bb59e18dd38"
     }
   ],
   "model": {
