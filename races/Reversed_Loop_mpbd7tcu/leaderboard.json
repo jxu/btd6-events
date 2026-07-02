@@ -3,7 +3,7 @@
   "success": true,
   "body": [
     {
-      "displayName": "Octopus",
+      "displayName": "Kirtap",
       "score": 122317,
       "scoreParts": [
         {
@@ -129,7 +129,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbe158a8e97f0ad1c468b480c74e575cd561dea9a45dd30"
     },
     {
-      "displayName": "ISAB",
+      "displayName": "CODE - TSP",
       "score": 132783,
       "scoreParts": [
         {
@@ -831,24 +831,6 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbe4688db96afa21d168e4e0a7be576c50d1fbeca43d06d"
     },
     {
-      "displayName": "Fenix - YT",
-      "score": 145317,
-      "scoreParts": [
-        {
-          "type": "time",
-          "score": 145317,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 15639000,
-          "name": "Time after event start"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9ced1f83dac5ada61e16da435c71b070c9521eb89c13d830"
-    },
-    {
       "displayName": "Polyol",
       "score": 145317,
       "scoreParts": [
@@ -901,6 +883,24 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbb1683d9c2ada31b4588435826b27fc45015e99e17db39"
+    },
+    {
+      "displayName": "Sniper 355",
+      "score": 145933,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 145933,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 323734000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9cee45dddb96ada24a4387490a22b472cc561ebecd11d030"
     }
   ],
   "model": {

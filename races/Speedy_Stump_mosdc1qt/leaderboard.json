@@ -21,7 +21,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9ce917898bc4aaac10108b4b5626e77ec9564ebd96148e6c"
     },
     {
-      "displayName": "Octopus",
+      "displayName": "Kirtap",
       "score": 137350,
       "scoreParts": [
         {
@@ -165,24 +165,6 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbc4189d99ef8a74e428f1e5722e771c80619efcb188a3e"
     },
     {
-      "displayName": "thericeman",
-      "score": 152983,
-      "scoreParts": [
-        {
-          "type": "time",
-          "score": 152983,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 186362000,
-          "name": "Time after event start"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fb61389dc95fca6184a8e1e0921e624c85548b99c42d86a"
-    },
-    {
       "displayName": "Notes",
       "score": 153717,
       "scoreParts": [
@@ -237,7 +219,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9ced1fdfddc7fea14e138a1f5670ee22cc5214bb98138c31"
     },
     {
-      "displayName": "ISAB",
+      "displayName": "CODE - TSP",
       "score": 156283,
       "scoreParts": [
         {
@@ -271,24 +253,6 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb917dede95fcac114a8f430b7bb023c5001db4c843d069"
-    },
-    {
-      "displayName": "Fenix - YT",
-      "score": 156933,
-      "scoreParts": [
-        {
-          "type": "time",
-          "score": 156933,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 130822000,
-          "name": "Time after event start"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9ced1f83dac5ada61e16da435c71b070c9521eb89c13d830"
     },
     {
       "displayName": "chocbox",
@@ -669,7 +633,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9cb715d9ddc4faf31d4b864a0a73e524ca001ded9d17d96e"
     },
     {
-      "displayName": "good timing",
+      "displayName": "Maarcii",
       "score": 165883,
       "scoreParts": [
         {
@@ -901,6 +865,42 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb71283de91fff34d4ad9490e7ab77ecf0119bc9c108a69"
+    },
+    {
+      "displayName": "Duck",
+      "score": 170450,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 170450,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 111703000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9ce9428c8b97aaf749118c4e5d73e77f9e5719ba9a45dc31"
+    },
+    {
+      "displayName": "TecG",
+      "score": 170633,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 170633,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 306908000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb716d9dcc2afa61c1187435a73e070cf014fbacb418e31"
     }
   ],
   "model": {

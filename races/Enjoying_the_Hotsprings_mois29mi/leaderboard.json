@@ -39,7 +39,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb612de8a90a8ac1a43da1d5926b07fce0615ee96438a6a"
     },
     {
-      "displayName": "Octopus",
+      "displayName": "Kirtap",
       "score": 140017,
       "scoreParts": [
         {
@@ -163,24 +163,6 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9cb742dd8d92fda44c14891e5f76e724cc551be89710d86c"
-    },
-    {
-      "displayName": "thericeman",
-      "score": 146233,
-      "scoreParts": [
-        {
-          "type": "time",
-          "score": 146233,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 252640000,
-          "name": "Time after event start"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fb61389dc95fca6184a8e1e0921e624c85548b99c42d86a"
     },
     {
       "displayName": "gorgeous tiger",
@@ -397,24 +379,6 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbe418fde92ffa44e178e4b5e22ef769d5749b49a12dc3b"
-    },
-    {
-      "displayName": "Fenix - YT",
-      "score": 149017,
-      "scoreParts": [
-        {
-          "type": "time",
-          "score": 149017,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 32191000,
-          "name": "Time after event start"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9ced1f83dac5ada61e16da435c71b070c9521eb89c13d830"
     },
     {
       "displayName": "Tobi",
@@ -901,6 +865,42 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb9158cd696f0ad4a10db1d5976b423cd5548be9d118a30"
+    },
+    {
+      "displayName": "Sheep",
+      "score": 152517,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 152517,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 321908000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb6178e8995f8ad1c448b4b5c27e574c45614e99c168c3c"
+    },
+    {
+      "displayName": "ham_sandwich",
+      "score": 152533,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 152533,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 333636000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb6108f8bc3aca41e47da4b0920ef739f0d1fe9ca128e30"
     }
   ],
   "model": {

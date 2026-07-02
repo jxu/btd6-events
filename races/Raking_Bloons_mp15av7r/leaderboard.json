@@ -273,7 +273,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9ced158ad6c5faf64d408e1e5f22b424cd0148b99a46d96e"
     },
     {
-      "displayName": "ISAB",
+      "displayName": "CODE - TSP",
       "score": 184300,
       "scoreParts": [
         {
@@ -325,24 +325,6 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbe158a8e97f0ad1c468b480c74e575cd561dea9a45dd30"
-    },
-    {
-      "displayName": "thericeman",
-      "score": 185583,
-      "scoreParts": [
-        {
-          "type": "time",
-          "score": 185583,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 289180000,
-          "name": "Time after event start"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fb61389dc95fca6184a8e1e0921e624c85548b99c42d86a"
     },
     {
       "displayName": "chocbox",
@@ -415,24 +397,6 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbc1f88db91fba51e178d4a0b21ef75c8561db5cf46d039"
-    },
-    {
-      "displayName": "Fenix - YT",
-      "score": 188067,
-      "scoreParts": [
-        {
-          "type": "time",
-          "score": 188067,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 30343000,
-          "name": "Time after event start"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9ced1f83dac5ada61e16da435c71b070c9521eb89c13d830"
     },
     {
       "displayName": "KingOfDeath",
@@ -741,7 +705,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbe43dfdf91f9f01b138b4d5c73e375c45019e89f15d06a"
     },
     {
-      "displayName": "Luna",
+      "displayName": "Alice",
       "score": 197017,
       "scoreParts": [
         {
@@ -901,6 +865,42 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb645ddd7c3f0f4491787420a73b073c4004fbc9e42dd6c"
+    },
+    {
+      "displayName": "ElainA",
+      "score": 199650,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 199650,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 296100000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb9158cd696f0ad4a10db1d5976b423cd5548be9d118a30"
+    },
+    {
+      "displayName": "rime_light",
+      "score": 199867,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 199867,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 135818000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb746828c9ef8a61e45881f5b26ef23cd5019b49710d86d"
     }
   ],
   "model": {

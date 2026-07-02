@@ -3,7 +3,7 @@
   "success": true,
   "body": [
     {
-      "displayName": "Bjorn",
+      "displayName": "4AlchBuffsBen",
       "score": 5,
       "scoreParts": [
         {
@@ -13,78 +13,22 @@
         },
         {
           "type": "number",
-          "score": 40,
+          "score": 34,
           "name": "Tier Count"
         },
         {
           "type": "time",
-          "score": 1486600,
+          "score": 2523600,
           "name": "Game Time"
         },
         {
           "type": "time",
-          "score": 401196000,
+          "score": 407682000,
           "name": "Submission Time"
         }
       ],
       "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fbc458c899efba51d1388195d76b573c9064be99a44da3e"
-    },
-    {
-      "displayName": "lucy",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "number",
-          "score": 40,
-          "name": "Tier Count"
-        },
-        {
-          "type": "time",
-          "score": 1694000,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 317982000,
-          "name": "Submission Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9cec1fd98c93adf01e1088185f22b324ca5649e89c41de30"
-    },
-    {
-      "displayName": "Poi",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "number",
-          "score": 41,
-          "name": "Tier Count"
-        },
-        {
-          "type": "time",
-          "score": 1880000,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 285870000,
-          "name": "Submission Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fb6118ddcc2fcf7184add1e0974ee71980d1ebe9617dd6a"
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbc44828cc4f9ac1a4a881f577bb276c90014b99d14df6e"
     },
     {
       "displayName": "Thee Player",
@@ -97,17 +41,17 @@
         },
         {
           "type": "number",
-          "score": 42,
+          "score": 34,
           "name": "Tier Count"
         },
         {
           "type": "time",
-          "score": 1261300,
+          "score": 2688700,
           "name": "Game Time"
         },
         {
           "type": "time",
-          "score": 153084000,
+          "score": 288090000,
           "name": "Submission Time"
         }
       ],
@@ -125,22 +69,134 @@
         },
         {
           "type": "number",
-          "score": 42,
+          "score": 34,
           "name": "Tier Count"
         },
         {
           "type": "time",
-          "score": 1612100,
+          "score": 2812500,
           "name": "Game Time"
         },
         {
           "type": "time",
-          "score": 103998000,
+          "score": 208650000,
           "name": "Submission Time"
         }
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbd4382d996fef34a4bdd4c0d7ab3719d064ce89845893d"
+    },
+    {
+      "displayName": "lucy",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "number",
+          "score": 34,
+          "name": "Tier Count"
+        },
+        {
+          "type": "time",
+          "score": 2959300,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 341052000,
+          "name": "Submission Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9cec1fd98c93adf01e1088185f22b324ca5649e89c41de30"
+    },
+    {
+      "displayName": "stupid song",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "number",
+          "score": 35,
+          "name": "Tier Count"
+        },
+        {
+          "type": "time",
+          "score": 2814500,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 362694000,
+          "name": "Submission Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbf43d9d796aaac1c41de4e5e7be672cc511aeacc138a39"
+    },
+    {
+      "displayName": "YT LokiBTD",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "number",
+          "score": 35,
+          "name": "Tier Count"
+        },
+        {
+          "type": "time",
+          "score": 2819600,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 149406000,
+          "name": "Submission Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9ce9118fd796faf610478f4a5a71e2769d014fe9cd43893f"
+    },
+    {
+      "displayName": "doudizhu",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "number",
+          "score": 35,
+          "name": "Tier Count"
+        },
+        {
+          "type": "time",
+          "score": 2830200,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 146856000,
+          "name": "Submission Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbb46ded79ef9f31d40da185b76ee24cc5014e8cf46d039"
     },
     {
       "displayName": "MABO YT",
@@ -153,442 +209,22 @@
         },
         {
           "type": "number",
-          "score": 42,
+          "score": 35,
           "name": "Tier Count"
         },
         {
           "type": "time",
-          "score": 1833500,
+          "score": 2846300,
           "name": "Game Time"
         },
         {
           "type": "time",
-          "score": 310650000,
+          "score": 273336000,
           "name": "Submission Time"
         }
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fba10d8d79ffea31847da435774e722990118ba9c438b31"
-    },
-    {
-      "displayName": "Dev",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "number",
-          "score": 48,
-          "name": "Tier Count"
-        },
-        {
-          "type": "time",
-          "score": 1236400,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 226932000,
-          "name": "Submission Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fb612d98b95f1f64b44dc190d77e770cb501eb89917d06c"
-    },
-    {
-      "displayName": "ISAB",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "number",
-          "score": 48,
-          "name": "Tier Count"
-        },
-        {
-          "type": "time",
-          "score": 1367300,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 261414000,
-          "name": "Submission Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9cb91089ddc5fea31f468c195e70b426cc0d1abe9d44da69"
-    },
-    {
-      "displayName": "SeeRukio",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "number",
-          "score": 48,
-          "name": "Tier Count"
-        },
-        {
-          "type": "time",
-          "score": 1614900,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 49068000,
-          "name": "Submission Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fbd14ded696aba54c478a1e0b72e223980115bc99148d31"
-    },
-    {
-      "displayName": "ZooL",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "number",
-          "score": 48,
-          "name": "Tier Count"
-        },
-        {
-          "type": "time",
-          "score": 1660900,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 392034000,
-          "name": "Submission Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fbb4688dbc5aba249118a4f597ae170980748b49c45de3f"
-    },
-    {
-      "displayName": "i eat soap",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "number",
-          "score": 49,
-          "name": "Tier Count"
-        },
-        {
-          "type": "time",
-          "score": 1346000,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 430158000,
-          "name": "Submission Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fbd1589d894ada34e4b891f5920e0269e5714b59c138e3e"
-    },
-    {
-      "displayName": "OnlyFarms",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "number",
-          "score": 49,
-          "name": "Tier Count"
-        },
-        {
-          "type": "time",
-          "score": 1537000,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 208632000,
-          "name": "Submission Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fbf15da8d9ffdad1814dd4f5f7ae373cc064cb9c8118e3f"
-    },
-    {
-      "displayName": "chickenshark",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "number",
-          "score": 50,
-          "name": "Tier Count"
-        },
-        {
-          "type": "time",
-          "score": 1554100,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 351972000,
-          "name": "Submission Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fbe17dfd8c0f8a14d4a8d1e5974e621ca551dbb9843d130"
-    },
-    {
-      "displayName": "wucstdio",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "number",
-          "score": 50,
-          "name": "Tier Count"
-        },
-        {
-          "type": "time",
-          "score": 1568100,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 156324000,
-          "name": "Submission Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fbe11dadbc3fda21d458a4f5a26e27e9e0d1abeca43d13d"
-    },
-    {
-      "displayName": "Monster",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "number",
-          "score": 50,
-          "name": "Tier Count"
-        },
-        {
-          "type": "time",
-          "score": 1637200,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 402336000,
-          "name": "Submission Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9cb6178ddcc7f9f01a4a874c5d25e726cc5548be97468b6a"
-    },
-    {
-      "displayName": "Bobbyphilip",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "number",
-          "score": 51,
-          "name": "Tier Count"
-        },
-        {
-          "type": "time",
-          "score": 1438900,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 406542000,
-          "name": "Submission Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9cea16de8d93ada61e13d94c5c71e776c85718bf9744d83d"
-    },
-    {
-      "displayName": "dlsabkls",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "number",
-          "score": 51,
-          "name": "Tier Count"
-        },
-        {
-          "type": "time",
-          "score": 1731900,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 116520000,
-          "name": "Submission Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fb71fd88cc4acf04b458c4d0a74e07fcf0714ba9b438d30"
-    },
-    {
-      "displayName": "EliteMaster4523",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "number",
-          "score": 51,
-          "name": "Tier Count"
-        },
-        {
-          "type": "time",
-          "score": 1915700,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 241878000,
-          "name": "Submission Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fb817d9d997adac1b468d4b0a22b376cb034cba9610db3a"
-    },
-    {
-      "displayName": "ALoopy",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "number",
-          "score": 51,
-          "name": "Tier Count"
-        },
-        {
-          "type": "time",
-          "score": 1967800,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 423714000,
-          "name": "Submission Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9ceb158eddc5ffa11f17874b0d74e421c95715b9cd14df3c"
-    },
-    {
-      "displayName": "Player",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "number",
-          "score": 53,
-          "name": "Tier Count"
-        },
-        {
-          "type": "time",
-          "score": 934600,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 277494000,
-          "name": "Submission Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fb61783db93faa218438c1d0a25b4749a0718ee9a18de6a"
-    },
-    {
-      "displayName": "Player3259360",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "number",
-          "score": 53,
-          "name": "Tier Count"
-        },
-        {
-          "type": "time",
-          "score": 1673800,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 346602000,
-          "name": "Submission Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fb943dad996fdf34c10da4d5876b77e9d024eea9619d13b"
     },
     {
       "displayName": "mili1000",
@@ -601,17 +237,17 @@
         },
         {
           "type": "number",
-          "score": 54,
+          "score": 35,
           "name": "Tier Count"
         },
         {
           "type": "time",
-          "score": 1847500,
+          "score": 2877700,
           "name": "Game Time"
         },
         {
           "type": "time",
-          "score": 346578000,
+          "score": 345852000,
           "name": "Submission Time"
         }
       ],
@@ -619,7 +255,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbc1ed9d7c5acf31a46d94d0922b272c5574bbc9c158e6a"
     },
     {
-      "displayName": "Express",
+      "displayName": "Bjorn",
       "score": 5,
       "scoreParts": [
         {
@@ -629,25 +265,25 @@
         },
         {
           "type": "number",
-          "score": 56,
+          "score": 35,
           "name": "Tier Count"
         },
         {
           "type": "time",
-          "score": 1262000,
+          "score": 2890800,
           "name": "Game Time"
         },
         {
           "type": "time",
-          "score": 281382000,
+          "score": 54918000,
           "name": "Submission Time"
         }
       ],
       "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fb8138dd8c0fdad19408b435c22e47e9a0c1aee9e13de6d"
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbc458c899efba51d1388195d76b573c9064be99a44da3e"
     },
     {
-      "displayName": "TitaniumLithium",
+      "displayName": "honeybee",
       "score": 5,
       "scoreParts": [
         {
@@ -657,25 +293,25 @@
         },
         {
           "type": "number",
-          "score": 56,
+          "score": 35,
           "name": "Tier Count"
         },
         {
           "type": "time",
-          "score": 1410000,
+          "score": 2922200,
           "name": "Game Time"
         },
         {
           "type": "time",
-          "score": 144486000,
+          "score": 61758000,
           "name": "Submission Time"
         }
       ],
       "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fb846d8db95fbf61d438a190b7be67eca054ebec811d83f"
+      "profile": "https://data.ninjakiwi.com/btd6/users/9ceb13df8dc4fca31a46864c5926e7259a5648e9c845df3b"
     },
     {
-      "displayName": "iSlester",
+      "displayName": "ISAB",
       "score": 5,
       "scoreParts": [
         {
@@ -685,22 +321,386 @@
         },
         {
           "type": "number",
-          "score": 56,
+          "score": 37,
           "name": "Tier Count"
         },
         {
           "type": "time",
-          "score": 1458500,
+          "score": 2764500,
           "name": "Game Time"
         },
         {
           "type": "time",
-          "score": 304164000,
+          "score": 163908000,
           "name": "Submission Time"
         }
       ],
       "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fbc1f88db91fba51e178d4a0b21ef75c8561db5cf46d039"
+      "profile": "https://data.ninjakiwi.com/btd6/users/9cb91089ddc5fea31f468c195e70b426cc0d1abe9d44da69"
+    },
+    {
+      "displayName": "Tendo Kei",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "number",
+          "score": 37,
+          "name": "Tier Count"
+        },
+        {
+          "type": "time",
+          "score": 2769800,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 429456000,
+          "name": "Submission Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbf42898b90afa44b468b4f5621e523cc001db99d42dc31"
+    },
+    {
+      "displayName": "dlsabkls",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "number",
+          "score": 40,
+          "name": "Tier Count"
+        },
+        {
+          "type": "time",
+          "score": 3235900,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 44064000,
+          "name": "Submission Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb71fd88cc4acf04b458c4d0a74e07fcf0714ba9b438d30"
+    },
+    {
+      "displayName": "GreatGumbyGamer",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "number",
+          "score": 41,
+          "name": "Tier Count"
+        },
+        {
+          "type": "time",
+          "score": 2922500,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 317472000,
+          "name": "Submission Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9ced1fd9dec4f1f71e448c480d77e624cf034fbe9e15dc3b"
+    },
+    {
+      "displayName": "AOPSUser",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "number",
+          "score": 42,
+          "name": "Tier Count"
+        },
+        {
+          "type": "time",
+          "score": 2315100,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 110202000,
+          "name": "Submission Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9ce94182db94fef64d41871f5c26e77eca521defcc198d6e"
+    },
+    {
+      "displayName": "Phatbeet2002",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "number",
+          "score": 42,
+          "name": "Tier Count"
+        },
+        {
+          "type": "time",
+          "score": 2497800,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 264954000,
+          "name": "Submission Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb6178889c0aaa34d108f4a0d70e322cd051eef96118c3f"
+    },
+    {
+      "displayName": "ISAB",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "number",
+          "score": 42,
+          "name": "Tier Count"
+        },
+        {
+          "type": "time",
+          "score": 2529500,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 318888000,
+          "name": "Submission Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbb12deda93f1f01d4a891f5e76e5719e0348e89742df69"
+    },
+    {
+      "displayName": "Alice",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "number",
+          "score": 42,
+          "name": "Tier Count"
+        },
+        {
+          "type": "time",
+          "score": 2565200,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 418956000,
+          "name": "Submission Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb742d98b9eada01e45dd425d76e6759a0615b49843de6c"
+    },
+    {
+      "displayName": "Za Goul",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "number",
+          "score": 42,
+          "name": "Tier Count"
+        },
+        {
+          "type": "time",
+          "score": 2650700,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 414600000,
+          "name": "Submission Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbc16d88bc4fead1e43dd1d5a72b773cb001ceac8418a30"
+    },
+    {
+      "displayName": "noob514",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "number",
+          "score": 42,
+          "name": "Tier Count"
+        },
+        {
+          "type": "time",
+          "score": 2758700,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 119376000,
+          "name": "Submission Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb91f8b8ac3fea61d13dd190b71e47f9d044cb49e13d83f"
+    },
+    {
+      "displayName": "Sign",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "number",
+          "score": 43,
+          "name": "Tier Count"
+        },
+        {
+          "type": "time",
+          "score": 2496400,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 331050000,
+          "name": "Submission Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9ce9158a8d90a8f149428b495873e37499061cb49b19db3a"
+    },
+    {
+      "displayName": "Bigfialho2",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "number",
+          "score": 43,
+          "name": "Tier Count"
+        },
+        {
+          "type": "time",
+          "score": 2542400,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 386292000,
+          "name": "Submission Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9cb81e8ede97faa34c168e4c0b76b026cc501dea9715da6d"
+    },
+    {
+      "displayName": "Maud B",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "number",
+          "score": 43,
+          "name": "Tier Count"
+        },
+        {
+          "type": "time",
+          "score": 2656300,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 423516000,
+          "name": "Submission Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb6138d8ac0abf64b14de4a0975b72599511cbf9a438c31"
+    },
+    {
+      "displayName": "Bman",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "number",
+          "score": 43,
+          "name": "Tier Count"
+        },
+        {
+          "type": "time",
+          "score": 2921100,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 282918000,
+          "name": "Submission Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbe4683dc91f8a31b4a871f5b75e27f9a0318bfc843dc30"
     }
   ],
   "model": {
@@ -728,7 +728,7 @@
       }
     }
   },
-  "next": "https://data.ninjakiwi.com/btd6/bosses/Lych58_movuafva/leaderboard/elite/1?page=2",
+  "next": "https://data.ninjakiwi.com/btd6/bosses/Phayze29_mqtsgea4/leaderboard/elite/1?page=2",
   "prev": null,
   "maxPages": 40
 }

@@ -129,7 +129,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbc4189d99ef8a74e428f1e5722e771c80619efcb188a3e"
     },
     {
-      "displayName": "ISAB",
+      "displayName": "CODE - TSP",
       "score": 150983,
       "scoreParts": [
         {
@@ -307,24 +307,6 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fee17888dc2aaf34e41d9425c72e522ca504fb999118d31"
-    },
-    {
-      "displayName": "Fenix - YT",
-      "score": 168817,
-      "scoreParts": [
-        {
-          "type": "time",
-          "score": 168817,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 29630000,
-          "name": "Time after event start"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9ced1f83dac5ada61e16da435c71b070c9521eb89c13d830"
     },
     {
       "displayName": "KingOfDeath",
@@ -901,6 +883,24 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbc41dadf9faaf14d10874c5c72b773cd0315b5cf44da6b"
+    },
+    {
+      "displayName": "master79417",
+      "score": 183883,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 183883,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 332188000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbb1683d9c2ada31b4588435826b27fc45015e99e17db39"
     }
   ],
   "model": {

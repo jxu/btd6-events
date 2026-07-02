@@ -129,7 +129,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbd17d8d89ffca61f1787485a26b37e9a0d48bb96148e3d"
     },
     {
-      "displayName": "ISAB",
+      "displayName": "CODE - TSP",
       "score": 131967,
       "scoreParts": [
         {
@@ -615,24 +615,6 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fba17d9df94afa11c40894d5e7ab274cd0049bd97148d69"
     },
     {
-      "displayName": "Fenix - YT",
-      "score": 136217,
-      "scoreParts": [
-        {
-          "type": "time",
-          "score": 136217,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 34983000,
-          "name": "Time after event start"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9ced1f83dac5ada61e16da435c71b070c9521eb89c13d830"
-    },
-    {
       "displayName": "Hello Kitty",
       "score": 136217,
       "scoreParts": [
@@ -901,6 +883,24 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb645ddd7c3f0f4491787420a73b073c4004fbc9e42dd6c"
+    },
+    {
+      "displayName": "Zzzzbaa",
+      "score": 138100,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 138100,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 318618000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb9158fd997ada64a408d1f0c26e2709d554cbc9745de31"
     }
   ],
   "model": {
