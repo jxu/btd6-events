@@ -1,0 +1,309 @@
+{
+  "error": null,
+  "success": true,
+  "body": [
+    {
+      "id": "Blastapopolous18_mr3xancq",
+      "name": "Blastapopolous18",
+      "bossType": "blastapopoulos",
+      "bossTypeURL": "https://static-api.nkstatic.com/appdocs/4/assets/opendata/cc5a96dd7fb35b5b4dfb9a316a90fc26_blastapopoulos.png",
+      "start": 1783130400000,
+      "end": 1783566000000,
+      "totalScores_standard": 7479,
+      "totalScores_elite": 2763,
+      "scoringType": "GameTime",
+      "normalScoringType": "GameTime",
+      "eliteScoringType": "GameTime",
+      "leaderboard_standard_players_1": "https://data.ninjakiwi.com/btd6/bosses/Blastapopolous18_mr3xancq/leaderboard/standard/1",
+      "leaderboard_elite_players_1": "https://data.ninjakiwi.com/btd6/bosses/Blastapopolous18_mr3xancq/leaderboard/elite/1",
+      "metadataStandard": "https://data.ninjakiwi.com/btd6/bosses/Blastapopolous18_mr3xancq/metadata/standard",
+      "metadataElite": "https://data.ninjakiwi.com/btd6/bosses/Blastapopolous18_mr3xancq/metadata/elite"
+    },
+    {
+      "id": "Phayze29_mqtsgea4",
+      "name": "Phayze29",
+      "bossType": "phayze",
+      "bossTypeURL": "https://static-api.nkstatic.com/appdocs/4/assets/opendata/f241841a0bcebc3aff8042ee0350b61d_phayze.png",
+      "start": 1782525600000,
+      "end": 1782961200000,
+      "totalScores_standard": 9369,
+      "totalScores_elite": 3101,
+      "scoringType": "LeastTiers",
+      "normalScoringType": "LeastTiers",
+      "eliteScoringType": "LeastTiers",
+      "leaderboard_standard_players_1": "https://data.ninjakiwi.com/btd6/bosses/Phayze29_mqtsgea4/leaderboard/standard/1",
+      "leaderboard_elite_players_1": "https://data.ninjakiwi.com/btd6/bosses/Phayze29_mqtsgea4/leaderboard/elite/1",
+      "metadataStandard": "https://data.ninjakiwi.com/btd6/bosses/Phayze29_mqtsgea4/metadata/standard",
+      "metadataElite": "https://data.ninjakiwi.com/btd6/bosses/Phayze29_mqtsgea4/metadata/elite"
+    },
+    {
+      "id": "Dreadbloon36_mqjq7el1",
+      "name": "Dreadbloon36",
+      "bossType": "dreadbloon",
+      "bossTypeURL": "https://static-api.nkstatic.com/appdocs/4/assets/opendata/ed8daf5c48556ea3bf7c333a5cbf7bb4_dreadbloon.png",
+      "start": 1781920800000,
+      "end": 1782356400000,
+      "totalScores_standard": 9766,
+      "totalScores_elite": 4379,
+      "scoringType": "GameTime",
+      "normalScoringType": "GameTime",
+      "eliteScoringType": "GameTime",
+      "leaderboard_standard_players_1": "https://data.ninjakiwi.com/btd6/bosses/Dreadbloon36_mqjq7el1/leaderboard/standard/1",
+      "leaderboard_elite_players_1": "https://data.ninjakiwi.com/btd6/bosses/Dreadbloon36_mqjq7el1/leaderboard/elite/1",
+      "metadataStandard": "https://data.ninjakiwi.com/btd6/bosses/Dreadbloon36_mqjq7el1/metadata/standard",
+      "metadataElite": "https://data.ninjakiwi.com/btd6/bosses/Dreadbloon36_mqjq7el1/metadata/elite"
+    },
+    {
+      "id": "Vortex45_mqa0rl1r",
+      "name": "Vortex45",
+      "bossType": "vortex",
+      "bossTypeURL": "https://static-api.nkstatic.com/appdocs/4/assets/opendata/6c4ce1b7cf706e455215861e5ba6aee8_vortex.png",
+      "start": 1781316000000,
+      "end": 1781751600000,
+      "totalScores_standard": 6919,
+      "totalScores_elite": 1954,
+      "scoringType": "LeastCash",
+      "normalScoringType": "LeastCash",
+      "eliteScoringType": "LeastCash",
+      "leaderboard_standard_players_1": "https://data.ninjakiwi.com/btd6/bosses/Vortex45_mqa0rl1r/leaderboard/standard/1",
+      "leaderboard_elite_players_1": "https://data.ninjakiwi.com/btd6/bosses/Vortex45_mqa0rl1r/leaderboard/elite/1",
+      "metadataStandard": "https://data.ninjakiwi.com/btd6/bosses/Vortex45_mqa0rl1r/metadata/standard",
+      "metadataElite": "https://data.ninjakiwi.com/btd6/bosses/Vortex45_mqa0rl1r/metadata/elite"
+    },
+    {
+      "id": "Lych59_mpyogbp9",
+      "name": "Lych59",
+      "bossType": "lych",
+      "bossTypeURL": "https://static-api.nkstatic.com/appdocs/4/assets/opendata/d09d65f1c741fc939994076e384c7339_lych.png",
+      "start": 1780711200000,
+      "end": 1781146800000,
+      "totalScores_standard": 8838,
+      "totalScores_elite": 2435,
+      "scoringType": "GameTime",
+      "normalScoringType": "GameTime",
+      "eliteScoringType": "GameTime",
+      "leaderboard_standard_players_1": "https://data.ninjakiwi.com/btd6/bosses/Lych59_mpyogbp9/leaderboard/standard/1",
+      "leaderboard_elite_players_1": "https://data.ninjakiwi.com/btd6/bosses/Lych59_mpyogbp9/leaderboard/elite/1",
+      "metadataStandard": "https://data.ninjakiwi.com/btd6/bosses/Lych59_mpyogbp9/metadata/standard",
+      "metadataElite": "https://data.ninjakiwi.com/btd6/bosses/Lych59_mpyogbp9/metadata/elite"
+    },
+    {
+      "id": "Bloonarius67_mpq206gg",
+      "name": "Bloonarius67",
+      "bossType": "bloonarius",
+      "bossTypeURL": "https://static-api.nkstatic.com/appdocs/4/assets/opendata/a13e4eb428f6e37c0f5c27b34209a373_bloonarius.png",
+      "start": 1780106400000,
+      "end": 1780362000000,
+      "totalScores_standard": 4468,
+      "totalScores_elite": 1894,
+      "scoringType": "LeastCash",
+      "normalScoringType": "LeastCash",
+      "eliteScoringType": "LeastTiers",
+      "leaderboard_standard_players_1": "https://data.ninjakiwi.com/btd6/bosses/Bloonarius67_mpq206gg/leaderboard/standard/1",
+      "leaderboard_elite_players_1": "https://data.ninjakiwi.com/btd6/bosses/Bloonarius67_mpq206gg/leaderboard/elite/1",
+      "metadataStandard": "https://data.ninjakiwi.com/btd6/bosses/Bloonarius67_mpq206gg/metadata/standard",
+      "metadataElite": "https://data.ninjakiwi.com/btd6/bosses/Bloonarius67_mpq206gg/metadata/elite"
+    },
+    {
+      "id": "Diamondback5_mpfz8mi4",
+      "name": "Diamondback5",
+      "bossType": "diamondback",
+      "bossTypeURL": "https://static-api.nkstatic.com/appdocs/4/assets/opendata/6ce9ed6f1fcf37fc6baabc7c0e8e3163_diamondback.png",
+      "start": 1779501600000,
+      "end": 1779937200000,
+      "totalScores_standard": 11265,
+      "totalScores_elite": 4278,
+      "scoringType": "LeastCash",
+      "normalScoringType": "LeastCash",
+      "eliteScoringType": "LeastCash",
+      "leaderboard_standard_players_1": "https://data.ninjakiwi.com/btd6/bosses/Diamondback5_mpfz8mi4/leaderboard/standard/1",
+      "leaderboard_elite_players_1": "https://data.ninjakiwi.com/btd6/bosses/Diamondback5_mpfz8mi4/leaderboard/elite/1",
+      "metadataStandard": "https://data.ninjakiwi.com/btd6/bosses/Diamondback5_mpfz8mi4/metadata/standard",
+      "metadataElite": "https://data.ninjakiwi.com/btd6/bosses/Diamondback5_mpfz8mi4/metadata/elite"
+    },
+    {
+      "id": "Blastapopoulos17_mp5xojd6",
+      "name": "Blastapopoulos17",
+      "bossType": "blastapopoulos",
+      "bossTypeURL": "https://static-api.nkstatic.com/appdocs/4/assets/opendata/cc5a96dd7fb35b5b4dfb9a316a90fc26_blastapopoulos.png",
+      "start": 1778896800000,
+      "end": 1779332400000,
+      "totalScores_standard": 10686,
+      "totalScores_elite": 4698,
+      "scoringType": "LeastCash",
+      "normalScoringType": "LeastCash",
+      "eliteScoringType": "GameTime",
+      "leaderboard_standard_players_1": "https://data.ninjakiwi.com/btd6/bosses/Blastapopoulos17_mp5xojd6/leaderboard/standard/1",
+      "leaderboard_elite_players_1": "https://data.ninjakiwi.com/btd6/bosses/Blastapopoulos17_mp5xojd6/leaderboard/elite/1",
+      "metadataStandard": "https://data.ninjakiwi.com/btd6/bosses/Blastapopoulos17_mp5xojd6/metadata/standard",
+      "metadataElite": "https://data.ninjakiwi.com/btd6/bosses/Blastapopoulos17_mp5xojd6/metadata/elite"
+    },
+    {
+      "id": "Lych58_movuafva",
+      "name": "Lych58",
+      "bossType": "lych",
+      "bossTypeURL": "https://static-api.nkstatic.com/appdocs/4/assets/opendata/d09d65f1c741fc939994076e384c7339_lych.png",
+      "start": 1778292000000,
+      "end": 1778727600000,
+      "totalScores_standard": 9833,
+      "totalScores_elite": 3500,
+      "scoringType": "LeastCash",
+      "normalScoringType": "LeastCash",
+      "eliteScoringType": "LeastTiers",
+      "leaderboard_standard_players_1": "https://data.ninjakiwi.com/btd6/bosses/Lych58_movuafva/leaderboard/standard/1",
+      "leaderboard_elite_players_1": "https://data.ninjakiwi.com/btd6/bosses/Lych58_movuafva/leaderboard/elite/1",
+      "metadataStandard": "https://data.ninjakiwi.com/btd6/bosses/Lych58_movuafva/metadata/standard",
+      "metadataElite": "https://data.ninjakiwi.com/btd6/bosses/Lych58_movuafva/metadata/elite"
+    },
+    {
+      "id": "Diamondback4_momaiexl",
+      "name": "Diamondback4",
+      "bossType": "diamondback",
+      "bossTypeURL": "https://static-api.nkstatic.com/appdocs/4/assets/opendata/6ce9ed6f1fcf37fc6baabc7c0e8e3163_diamondback.png",
+      "start": 1777687200000,
+      "end": 1778122800000,
+      "totalScores_standard": 0,
+      "totalScores_elite": 0,
+      "scoringType": "GameTime",
+      "normalScoringType": "GameTime",
+      "eliteScoringType": "GameTime",
+      "leaderboard_standard_players_1": "https://data.ninjakiwi.com/btd6/bosses/Diamondback4_momaiexl/leaderboard/standard/1",
+      "leaderboard_elite_players_1": "https://data.ninjakiwi.com/btd6/bosses/Diamondback4_momaiexl/leaderboard/elite/1",
+      "metadataStandard": "https://data.ninjakiwi.com/btd6/bosses/Diamondback4_momaiexl/metadata/standard",
+      "metadataElite": "https://data.ninjakiwi.com/btd6/bosses/Diamondback4_momaiexl/metadata/elite"
+    },
+    {
+      "id": "Diamondback3_moam8ei6",
+      "name": "Diamondback3",
+      "bossType": "diamondback",
+      "bossTypeURL": "https://static-api.nkstatic.com/appdocs/4/assets/opendata/6ce9ed6f1fcf37fc6baabc7c0e8e3163_diamondback.png",
+      "start": 1777082400000,
+      "end": 1777518000000,
+      "totalScores_standard": 0,
+      "totalScores_elite": 0,
+      "scoringType": "LeastTiers",
+      "normalScoringType": "LeastTiers",
+      "eliteScoringType": "LeastTiers",
+      "leaderboard_standard_players_1": "https://data.ninjakiwi.com/btd6/bosses/Diamondback3_moam8ei6/leaderboard/standard/1",
+      "leaderboard_elite_players_1": "https://data.ninjakiwi.com/btd6/bosses/Diamondback3_moam8ei6/leaderboard/elite/1",
+      "metadataStandard": "https://data.ninjakiwi.com/btd6/bosses/Diamondback3_moam8ei6/metadata/standard",
+      "metadataElite": "https://data.ninjakiwi.com/btd6/bosses/Diamondback3_moam8ei6/metadata/elite"
+    },
+    {
+      "id": "Diamondback2_mo1xg7db",
+      "name": "Diamondback2",
+      "bossType": "diamondback",
+      "bossTypeURL": "https://static-api.nkstatic.com/appdocs/4/assets/opendata/6ce9ed6f1fcf37fc6baabc7c0e8e3163_diamondback.png",
+      "start": 1776477600000,
+      "end": 1776891600000,
+      "totalScores_standard": 0,
+      "totalScores_elite": 0,
+      "scoringType": "LeastCash",
+      "normalScoringType": "LeastCash",
+      "eliteScoringType": "LeastCash",
+      "leaderboard_standard_players_1": "https://data.ninjakiwi.com/btd6/bosses/Diamondback2_mo1xg7db/leaderboard/standard/1",
+      "leaderboard_elite_players_1": "https://data.ninjakiwi.com/btd6/bosses/Diamondback2_mo1xg7db/leaderboard/elite/1",
+      "metadataStandard": "https://data.ninjakiwi.com/btd6/bosses/Diamondback2_mo1xg7db/metadata/standard",
+      "metadataElite": "https://data.ninjakiwi.com/btd6/bosses/Diamondback2_mo1xg7db/metadata/elite"
+    },
+    {
+      "id": "Diamondback1_mnro7vd3",
+      "name": "Diamondback1",
+      "bossType": "diamondback",
+      "bossTypeURL": "https://static-api.nkstatic.com/appdocs/4/assets/opendata/6ce9ed6f1fcf37fc6baabc7c0e8e3163_diamondback.png",
+      "start": 1775736000000,
+      "end": 1776171600000,
+      "totalScores_standard": 0,
+      "totalScores_elite": 0,
+      "scoringType": "GameTime",
+      "normalScoringType": "GameTime",
+      "eliteScoringType": "GameTime",
+      "leaderboard_standard_players_1": "https://data.ninjakiwi.com/btd6/bosses/Diamondback1_mnro7vd3/leaderboard/standard/1",
+      "leaderboard_elite_players_1": "https://data.ninjakiwi.com/btd6/bosses/Diamondback1_mnro7vd3/leaderboard/elite/1",
+      "metadataStandard": "https://data.ninjakiwi.com/btd6/bosses/Diamondback1_mnro7vd3/metadata/standard",
+      "metadataElite": "https://data.ninjakiwi.com/btd6/bosses/Diamondback1_mnro7vd3/metadata/elite"
+    }
+  ],
+  "model": {
+    "name": "_btd6boss",
+    "parameters": {
+      "id": {
+        "description": "Boss Event ID",
+        "type": "string"
+      },
+      "name": {
+        "description": "Boss Name",
+        "type": "string"
+      },
+      "start": {
+        "description": "Boss start time in unix epoch milliseconds",
+        "type": "number"
+      },
+      "end": {
+        "description": "Boss end time in unix epoch milliseconds",
+        "type": "number"
+      },
+      "bossType": {
+        "description": "The name of the Boss",
+        "type": "string"
+      },
+      "bossTypeURL": {
+        "description": "Boss Icon",
+        "type": "assetURL"
+      },
+      "totalScores_standard": {
+        "description": "Total scores in the Standard leaderboard",
+        "type": "number"
+      },
+      "totalScores_elite": {
+        "description": "Total scores in the Elite leaderboard",
+        "type": "number"
+      },
+      "leaderboard_standard_players_1": {
+        "description": "URL to Elite Difficulty Single Player leaderboard data",
+        "type": "string"
+      },
+      "leaderboard_elite_players_1": {
+        "description": "URL to Elite Difficulty Single Player leaderboard data",
+        "type": "string"
+      },
+      "metadataStandard": {
+        "description": "URL to full metadata for Standard Mode",
+        "type": "string"
+      },
+      "metadataElite": {
+        "description": "URL to full metadata for Elite Mode",
+        "type": "string"
+      },
+      "scoringType": {
+        "description": "[Deprecated] - Use normalScoringType and eliteScoringType.",
+        "type": "string",
+        "allowed": [
+          "LeastCash",
+          "GameTime",
+          "LeastTiers"
+        ]
+      },
+      "normalScoringType": {
+        "description": "The score type for this leaderboard when playing standard mode.",
+        "type": "string",
+        "allowed": [
+          "LeastCash",
+          "GameTime",
+          "LeastTiers"
+        ]
+      },
+      "eliteScoringType": {
+        "eliteScoringType": "The score type for this leaderboard when playing elite mode",
+        "type": "string",
+        "allowed": [
+          "LeastCash",
+          "GameTime",
+          "LeastTiers"
+        ]
+      }
+    }
+  },
+  "next": null,
+  "prev": null
+}
