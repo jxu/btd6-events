@@ -93,7 +93,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbf138c8bc3f9a51f178b1d5971e175ce0118beca45db6a"
     },
     {
-      "displayName": "ISAB",
+      "displayName": "Bloon Zhoulver",
       "score": 123983,
       "scoreParts": [
         {
@@ -219,7 +219,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbd17d8d89ffca61f1787485a26b37e9a0d48bb96148e3d"
     },
     {
-      "displayName": "daniel",
+      "displayName": "jadzia legenda",
       "score": 128400,
       "scoreParts": [
         {
@@ -507,7 +507,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbf41dd8e96a8f14d4187425d77e424c50548ba9b138d69"
     },
     {
-      "displayName": "MAGEMAGICAL",
+      "displayName": "MageMagical",
       "score": 135550,
       "scoreParts": [
         {
@@ -669,24 +669,6 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9cb816d88992fba04c47de4a5627b47fcc0d1dbc9b15d86c"
     },
     {
-      "displayName": "DruidMonkey",
-      "score": 136467,
-      "scoreParts": [
-        {
-          "type": "time",
-          "score": 136467,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 329768000,
-          "name": "Time after event start"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fee13d8da94aaac1f4b871f5f7ae722c80214ee9e188b3d"
-    },
-    {
       "displayName": "Golf5R32",
       "score": 136567,
       "scoreParts": [
@@ -705,7 +687,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9ced46dd8ec7f0a711408a1d5f71b374ce074eba9d41dc31"
     },
     {
-      "displayName": "YTSunGodGaming",
+      "displayName": "youtube: Honour Btd6",
       "score": 136667,
       "scoreParts": [
         {
@@ -777,7 +759,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbc1088df96aaf04b118649587ab77fcf5749b8cc428a6b"
     },
     {
-      "displayName": "ISAB",
+      "displayName": "Magic",
       "score": 137083,
       "scoreParts": [
         {
@@ -901,6 +883,24 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb6138fdf9ffea54945de4f097be722c9574bbe9b17db3e"
+    },
+    {
+      "displayName": "Faster",
+      "score": 137367,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 137367,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 315579000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fee13828cc2a8ac1f4b871f5f7ae722c80215ea9e16dd3d"
     }
   ],
   "model": {

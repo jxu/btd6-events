@@ -1,4 +1,934 @@
 {
-  "error": "No Scores Available",
-  "success": false
+  "error": null,
+  "success": true,
+  "body": [
+    {
+      "displayName": "Bloon Zhoulver",
+      "score": 137483,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 137483,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 335751000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9ce9468ad6c2ffad1c168e1f0e20e521cd0c1bedc813d03d"
+    },
+    {
+      "displayName": "not player",
+      "score": 138300,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 138300,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 322788000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9ced11d9df93faa44e40864e0d7bb776ce054fea9914d16e"
+    },
+    {
+      "displayName": "SdEE SpeedRUN%",
+      "score": 139133,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 139133,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 333986000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbb12deda93f1f01d4a891f5e76e5719e0348e89742df69"
+    },
+    {
+      "displayName": "Leohgyon",
+      "score": 139500,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 139500,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 192793000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbf108389c2f0f11b44d94c5d74e771c5001eef9a42dc6e"
+    },
+    {
+      "displayName": "stupid song",
+      "score": 140050,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 140050,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 184335000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbf43d9d796aaac1c41de4e5e7be672cc511aeacc138a39"
+    },
+    {
+      "displayName": "salo",
+      "score": 140800,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 140800,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 330540000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9cea43888ec5abac1f14de4e0a76e0249f5718efcc10de6e"
+    },
+    {
+      "displayName": "Gillytoes",
+      "score": 142417,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 142417,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 258631000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbc178fdac3aba51a1486485a70e124cc0d1fbd9d46dd3d"
+    },
+    {
+      "displayName": "gorgeous tiger",
+      "score": 143483,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 143483,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 332938000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fba1fdedd9eafa710138c490c27e721c9051bbc99458d3b"
+    },
+    {
+      "displayName": "Fainter >:3",
+      "score": 144150,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 144150,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 346077000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbc4189d99ef8a74e428f1e5722e771c80619efcb188a3e"
+    },
+    {
+      "displayName": "Notes",
+      "score": 144350,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 144350,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 211019000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb843dd8d9eadf34b47dd1a0b21e77fcb551abacf168b69"
+    },
+    {
+      "displayName": "oxeetor",
+      "score": 144433,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 144433,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 19135000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9ce9178fdec5f9f14b46de1a5e27e777ca0118edca10893e"
+    },
+    {
+      "displayName": "MageMagical",
+      "score": 144483,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 144483,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 252163000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbe468fdec5aaf11a14dc4f5873e576995214bc9a13d03c"
+    },
+    {
+      "displayName": "Anton_YerBoi",
+      "score": 144517,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 144517,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 152961000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9cec1ededc92acf74e178b4f5a70b321ca0348e9ca12d13a"
+    },
+    {
+      "displayName": "tsp",
+      "score": 144533,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 144533,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 260661000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9ced108c8e93faa54b46da4d5626b723cd004eeacd10de3d"
+    },
+    {
+      "displayName": "EyaEyaYo",
+      "score": 144683,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 144683,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 122541000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb710dadb94afa64b10db425a21e324cc011cb8cf11d93d"
+    },
+    {
+      "displayName": "PlastiCine",
+      "score": 144767,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 144767,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 335007000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb6138fdf9ffea54945de4f097be722c9574bbe9b17db3e"
+    },
+    {
+      "displayName": "YtseJam",
+      "score": 145017,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 145017,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 200043000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9ce941d9ddc2afa3494a8f495d70e77f98071ebacc118b6a"
+    },
+    {
+      "displayName": "YT: RaiderBTD6",
+      "score": 145033,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 145033,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 160876000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbe158a8e97f0ad1c468b480c74e575cd561dea9a45dd30"
+    },
+    {
+      "displayName": "LordoftheAbyss",
+      "score": 145150,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 145150,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 329002000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fee158dd7c0f8f41916d94c5621e47598034eee9b45de39"
+    },
+    {
+      "displayName": "1v1nolTTV",
+      "score": 145217,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 145217,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 270749000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9ce942888dc3fead4b1189485d75e77eca014eb89f15896e"
+    },
+    {
+      "displayName": "Stabby",
+      "score": 145383,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 145383,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 45248000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbd17d8d89ffca61f1787485a26b37e9a0d48bb96148e3d"
+    },
+    {
+      "displayName": "YT-Jefreyds",
+      "score": 145517,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 145517,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 285589000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbf41dd8e96a8f14d4187425d77e424c50548ba9b138d69"
+    },
+    {
+      "displayName": "GrimRpz",
+      "score": 145550,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 145550,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 108709000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb617dedd94fef61914894b0b74ee7ecf0749ba99148c6c"
+    },
+    {
+      "displayName": "youtube: Honour Btd6",
+      "score": 145667,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 145667,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 318784000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbc11888c9faaa24d42864c5e22b2759f024ce99c44df6e"
+    },
+    {
+      "displayName": "chocbox",
+      "score": 145983,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 145983,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 203781000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9ced1583db93a8f74e11db4b097bb27ecb0018e998438e6d"
+    },
+    {
+      "displayName": "GaGaHoHo1",
+      "score": 146217,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 146217,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 321690000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbc1ed8dbc7fff11e118c425b20e37fcd504be8cf16d86d"
+    },
+    {
+      "displayName": "wellordering",
+      "score": 146383,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 146383,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 344183000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb917dede95fcac114a8f430b7bb023c5001db4c843d069"
+    },
+    {
+      "displayName": "izy",
+      "score": 146500,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 146500,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 296313000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fba138b8a94ffa51b4a88190e22b273ca0c4eef9742d831"
+    },
+    {
+      "displayName": "Nstra0",
+      "score": 146583,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 146583,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 40052000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb944d8df9eabac4a44dc4b5970b326ca061bbfcf11dd3c"
+    },
+    {
+      "displayName": "D MARK",
+      "score": 146750,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 146750,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 66344000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9cb816dedcc3fca41c43de430d77e273cb0214b99710dc31"
+    },
+    {
+      "displayName": "Fenix - YT",
+      "score": 146833,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 146833,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 28025000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9ced1f83dac5ada61e16da435c71b070c9521eb89c13d830"
+    },
+    {
+      "displayName": "OG_Gamer2012",
+      "score": 146900,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 146900,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 337353000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9ceb41da8c91fff41c46db495c26e770990c1eb8ca108d3b"
+    },
+    {
+      "displayName": "Tobi",
+      "score": 146933,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 146933,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 330473000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9ced1fdfddc7fea14e138a1f5670ee22cc5214bb98138c31"
+    },
+    {
+      "displayName": "TESTOVINAK",
+      "score": 146950,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 146950,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 151904000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbf15dadac2fba3491187425c25e771ca504fee96168c3c"
+    },
+    {
+      "displayName": "TopNovice6174",
+      "score": 147033,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 147033,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 323172000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb645ddd7c3f0f4491787420a73b073c4004fbc9e42dd6c"
+    },
+    {
+      "displayName": "exephur",
+      "score": 147050,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 147050,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 345260000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9ced158ad6c5faf64d408e1e5f22b424cd0148b99a46d96e"
+    },
+    {
+      "displayName": "so2firm",
+      "score": 147100,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 147100,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 279645000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbb118dda9ef8ac4c44da185a25e3229a001eb898448b3f"
+    },
+    {
+      "displayName": "IMicroBad",
+      "score": 147250,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 147250,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 141318000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9cea10dedb9efea74a448e1d5a70e77fcd051dbc9819df6e"
+    },
+    {
+      "displayName": "Quizdan",
+      "score": 147367,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 147367,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 179960000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbf43df8bc0adf34e46dd420d27e476c50118bd9b43dc6b"
+    },
+    {
+      "displayName": "Faris",
+      "score": 147400,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 147400,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 343412000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb615ded890f1ad1017884b0c25b724990149e99c17893d"
+    },
+    {
+      "displayName": "Golf5R32",
+      "score": 147500,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 147500,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 231345000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9ced46dd8ec7f0a711408a1d5f71b374ce074eba9d41dc31"
+    },
+    {
+      "displayName": "PxzzaYoutube",
+      "score": 147550,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 147550,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 166406000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbb1fdfdd91f1a04d1489490c75e67199504feecf44de6d"
+    },
+    {
+      "displayName": "KingOfDeath",
+      "score": 147567,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 147567,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 58773000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9cee17dddd95f8ad1147d9185e26b77ecd574fba9642dd3d"
+    },
+    {
+      "displayName": "Dendrgame",
+      "score": 147583,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 147583,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 299233000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb71f89de93f8a31c45891a5f7ab47fc5064feec818d06a"
+    },
+    {
+      "displayName": "Whoru",
+      "score": 147717,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 147717,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 248171000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9cea41dedac4ffac49108f4d0974e5769f571dbbcb13dc3b"
+    },
+    {
+      "displayName": "Soar",
+      "score": 147717,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 147717,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 280775000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb91e8bdec0a8f61e4ad94c5c74e325ca0c4feacd168d3a"
+    },
+    {
+      "displayName": "Player",
+      "score": 147750,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 147750,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 347526000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fba1683dd97fda64c438e4d5c72e0219d0d1cb49812d169"
+    },
+    {
+      "displayName": "Kyzsora",
+      "score": 148050,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 148050,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 344738000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9cb717898e90aaf44c46894a5e75e176cc5015be9f17d96c"
+    },
+    {
+      "displayName": "KiwiNovice7583",
+      "score": 148100,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 148100,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 96460000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9cec41d98a93f0f04e4b88425b71ef22cf011aee9942d138"
+    },
+    {
+      "displayName": "SuperGood",
+      "score": 148100,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 148100,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 300862000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb61e828cc0fff11c178e485d73e377cf001ce99746dc3b"
+    }
+  ],
+  "model": {
+    "name": "_btd6raceleaderboard",
+    "parameters": {
+      "displayName": {
+        "description": "The display name for this user",
+        "type": "string"
+      },
+      "score": {
+        "description": "The Race score in milliseconds",
+        "type": "number"
+      },
+      "scoreParts": {
+        "description": "When the leaderboard includes multiple scores they will be included here",
+        "type": "array"
+      },
+      "submissionTime": {
+        "description": "The epoch time in milliseconds when the score was submitted (-1 when not available)",
+        "type": "number"
+      },
+      "profile": {
+        "description": "URL to the players public profile",
+        "type": "string"
+      }
+    }
+  },
+  "next": "https://data.ninjakiwi.com/btd6/races/End_of_the_Line_mrkd24wf/leaderboard?page=2",
+  "prev": null,
+  "maxPages": 20
 }
