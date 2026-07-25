@@ -41,15 +41,18 @@ download_all() {
 }
 
 
-# for fun: user input
-# for each API, only the fields change
+# For fun: read user input
+# For each API, only the fields change.
+# Due to the API returning zero scores for too old leaderboards (issue #2),
+# bosses and races use a jq expression for fields to avoid overwriting
+# with empty leaderboard
 case "${1:-}" in
     bosses)
         download_all \
             "https://data.ninjakiwi.com/btd6/bosses" \
             "bosses" \
-            '.leaderboard_standard_players_1,
-             .leaderboard_elite_players_1,
+            '(if .totalScores_standard > 0 then .leaderboard_standard_players_1 else empty end),
+             (if .totalScores_elite > 0 then .leaderboard_elite_players_1 else empty end),
              .metadataStandard,
              .metadataElite'
         ;;
@@ -57,7 +60,7 @@ case "${1:-}" in
         download_all \
             "https://data.ninjakiwi.com/btd6/races" \
             "races" \
-            '.leaderboard,
+            '(if .totalScores > 0 then .leaderboard else empty end),
              .metadata'
         ;;
     odyssey)
