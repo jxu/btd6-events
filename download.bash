@@ -30,8 +30,7 @@ download_all() {
     echo "$curlconfig"
 
     # download curlconfig JSON URLs
-    echo "$curlconfig" | 
-    curl -Z --config - --create-dirs
+    curl -Z --config - --create-dirs <<< "$curlconfig"
 
     # pretty-print and overwrite JSON files
     echo "$curlconfig" |
