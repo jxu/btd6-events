@@ -3,7 +3,7 @@
   "success": true,
   "body": [
     {
-      "displayName": "Bloon Zhoulver",
+      "displayName": "ISAB",
       "score": 137483,
       "scoreParts": [
         {
@@ -165,7 +165,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbc4189d99ef8a74e428f1e5722e771c80619efcb188a3e"
     },
     {
-      "displayName": "Notes",
+      "displayName": "Set On",
       "score": 144350,
       "scoreParts": [
         {
@@ -181,24 +181,6 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb843dd8d9eadf34b47dd1a0b21e77fcb551abacf168b69"
-    },
-    {
-      "displayName": "oxeetor",
-      "score": 144433,
-      "scoreParts": [
-        {
-          "type": "time",
-          "score": 144433,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 19135000,
-          "name": "Time after event start"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9ce9178fdec5f9f14b46de1a5e27e777ca0118edca10893e"
     },
     {
       "displayName": "MageMagical",
@@ -327,7 +309,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbe158a8e97f0ad1c468b480c74e575cd561dea9a45dd30"
     },
     {
-      "displayName": "LordoftheAbyss",
+      "displayName": "autumn",
       "score": 145150,
       "scoreParts": [
         {
@@ -525,7 +507,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb944d8df9eabac4a44dc4b5970b326ca061bbfcf11dd3c"
     },
     {
-      "displayName": "D MARK",
+      "displayName": "Hi :)",
       "score": 146750,
       "scoreParts": [
         {
@@ -901,6 +883,24 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb61e828cc0fff11c178e485d73e377cf001ce99746dc3b"
+    },
+    {
+      "displayName": "yxs_da",
+      "score": 148133,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 148133,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 249993000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbb14da8e90ada71941dd190a7ae27fca0618e8ca11d931"
     }
   ],
   "model": {
