@@ -21,7 +21,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbc44d8dd97fbf64c11871e0e27e7249d5215bb9914de31"
     },
     {
-      "displayName": "ISAB",
+      "displayName": "faristhebest",
       "score": 171183,
       "scoreParts": [
         {
@@ -57,7 +57,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbb12deda93f1f01d4a891f5e76e5719e0348e89742df69"
     },
     {
-      "displayName": "stupid song",
+      "displayName": "kirtrap",
       "score": 173333,
       "scoreParts": [
         {
@@ -633,25 +633,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb61e828cc0fff11c178e485d73e377cf001ce99746dc3b"
     },
     {
-      "displayName": "Scalimeroo",
-      "score": 205517,
-      "scoreParts": [
-        {
-          "type": "time",
-          "score": 205517,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 41457000,
-          "name": "Time after event start"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9ceb46d9d696fbac4e478b490e26e7709a511fb498418a3b"
-    },
-    {
-      "displayName": "ISAB",
+      "displayName": "Magic",
       "score": 206067,
       "scoreParts": [
         {
@@ -901,6 +883,24 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbc178fdac3aba51a1486485a70e124cc0d1fbd9d46dd3d"
+    },
+    {
+      "displayName": "Sniper_Typ",
+      "score": 216617,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 216617,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 198243000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9ce9148bdd90fff71c478f4e0973e77fca521db89c15df3d"
     }
   ],
   "model": {

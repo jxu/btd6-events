@@ -39,7 +39,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9ced11dfdb92fea41b4ad94e5675e474cd014fb4cc138a3b"
     },
     {
-      "displayName": "Felicia",
+      "displayName": "MagentaTV",
       "score": 146000,
       "scoreParts": [
         {
@@ -75,7 +75,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9ce912dfdd9ef1f31b41dd4f5976e77f9d564beac845893e"
     },
     {
-      "displayName": "ISAB",
+      "displayName": "faristhebest",
       "score": 147333,
       "scoreParts": [
         {
@@ -111,7 +111,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9ced11d9df93faa44e40864e0d7bb776ce054fea9914d16e"
     },
     {
-      "displayName": "ISAB",
+      "displayName": "BOLTRIX",
       "score": 147817,
       "scoreParts": [
         {
@@ -255,7 +255,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9ced1f83dac5ada61e16da435c71b070c9521eb89c13d830"
     },
     {
-      "displayName": "Goatis BTD6",
+      "displayName": "download opsec",
       "score": 155900,
       "scoreParts": [
         {
@@ -289,24 +289,6 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9cea10dedb9efea74a448e1d5a70e77fcd051dbc9819df6e"
-    },
-    {
-      "displayName": "Whoru",
-      "score": 156217,
-      "scoreParts": [
-        {
-          "type": "time",
-          "score": 156217,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 127358000,
-          "name": "Time after event start"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9cea41dedac4ffac49108f4d0974e5769f571dbbcb13dc3b"
     },
     {
       "displayName": "Gillytoes",
@@ -363,7 +345,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb61edd8e92f1a61a108d4d5e71e374cb071ab99b44d96e"
     },
     {
-      "displayName": "whyCretz",
+      "displayName": "whyCrets",
       "score": 156950,
       "scoreParts": [
         {
@@ -507,7 +489,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbc11888c9faaa24d42864c5e22b2759f024ce99c44df6e"
     },
     {
-      "displayName": "ReadMonkeNames",
+      "displayName": "Dennis",
       "score": 159200,
       "scoreParts": [
         {
@@ -651,7 +633,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9ce9108cd7c2fba51c1188195d77e026cb0118b9c816d16a"
     },
     {
-      "displayName": "Space",
+      "displayName": "Spicy",
       "score": 160183,
       "scoreParts": [
         {
@@ -687,7 +669,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbb118dda9ef8ac4c44da185a25e3229a001eb898448b3f"
     },
     {
-      "displayName": "ISAB",
+      "displayName": "Magic",
       "score": 160350,
       "scoreParts": [
         {
@@ -901,6 +883,24 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9ceb438bdc91fda51e4488495c71e57e9f574eb99d44df6e"
+    },
+    {
+      "displayName": "Murakami",
+      "score": 163117,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 163117,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 260914000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb846dd8e95f9f61e13de1d5f76b524cb0649ef9d42dc3a"
     }
   ],
   "model": {

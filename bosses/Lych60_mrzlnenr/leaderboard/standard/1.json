@@ -255,34 +255,6 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9cba43828c93ada21917da495a21ef70cc5715b59f11dd3f"
     },
     {
-      "displayName": "Whoru",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "number",
-          "score": 32,
-          "name": "Tier Count"
-        },
-        {
-          "type": "time",
-          "score": 1348500,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 282474000,
-          "name": "Submission Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9cea41dedac4ffac49108f4d0974e5769f571dbbcb13dc3b"
-    },
-    {
       "displayName": "Alteraine",
       "score": 5,
       "scoreParts": [
@@ -701,6 +673,34 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9cb942d98d9eaba51e4ad94c5727b47ecc0d4cb49644dd3c"
+    },
+    {
+      "displayName": "sauceman",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "number",
+          "score": 32,
+          "name": "Tier Count"
+        },
+        {
+          "type": "time",
+          "score": 1630700,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 146832000,
+          "name": "Submission Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9ceb1f8fd895afa61943dc4c0b26e77fc9551bbbcf42d938"
     }
   ],
   "model": {

@@ -3,7 +3,7 @@
   "success": true,
   "body": [
     {
-      "displayName": "ISAB",
+      "displayName": "faristhebest",
       "score": 137483,
       "scoreParts": [
         {
@@ -75,7 +75,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbf108389c2f0f11b44d94c5d74e771c5001eef9a42dc6e"
     },
     {
-      "displayName": "stupid song",
+      "displayName": "kirtrap",
       "score": 140050,
       "scoreParts": [
         {
@@ -777,24 +777,6 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb71f89de93f8a31c45891a5f7ab47fc5064feec818d06a"
     },
     {
-      "displayName": "Whoru",
-      "score": 147717,
-      "scoreParts": [
-        {
-          "type": "time",
-          "score": 147717,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 248171000,
-          "name": "Time after event start"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9cea41dedac4ffac49108f4d0974e5769f571dbbcb13dc3b"
-    },
-    {
       "displayName": "Soar",
       "score": 147717,
       "scoreParts": [
@@ -901,6 +883,24 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbb14da8e90ada71941dd190a7ae27fca0618e8ca11d931"
+    },
+    {
+      "displayName": "Hello Kitty",
+      "score": 148217,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 148217,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 319158000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb6178b8ac0fea31a11864f0b7ae624c8554bbd9a448b3c"
     }
   ],
   "model": {
