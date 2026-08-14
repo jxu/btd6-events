@@ -1,0 +1,185 @@
+{
+  "error": null,
+  "success": true,
+  "body": [
+    {
+      "id": "msn8pygs",
+      "name": "Straight to the Point",
+      "description": "Straight track, straight action, no bends.",
+      "start": 1786586400000,
+      "end": 1787104800000,
+      "metadata_easy": "https://data.ninjakiwi.com/btd6/odyssey/msn8pygs/easy",
+      "metadata_medium": "https://data.ninjakiwi.com/btd6/odyssey/msn8pygs/medium",
+      "metadata_hard": "https://data.ninjakiwi.com/btd6/odyssey/msn8pygs/hard"
+    },
+    {
+      "id": "Skulls_mse4clux",
+      "name": "Skulls",
+      "description": "They're pretty cool, so let's roll out some towers and maps that have those!",
+      "start": 1785981600000,
+      "end": 1786500000000,
+      "metadata_easy": "https://data.ninjakiwi.com/btd6/odyssey/Skulls_mse4clux/easy",
+      "metadata_medium": "https://data.ninjakiwi.com/btd6/odyssey/Skulls_mse4clux/medium",
+      "metadata_hard": "https://data.ninjakiwi.com/btd6/odyssey/Skulls_mse4clux/hard"
+    },
+    {
+      "id": "ms4uh0oi",
+      "name": "Cool as Ice",
+      "description": "This will be one COOL Odyssey!",
+      "start": 1785376800000,
+      "end": 1785895200000,
+      "metadata_easy": "https://data.ninjakiwi.com/btd6/odyssey/ms4uh0oi/easy",
+      "metadata_medium": "https://data.ninjakiwi.com/btd6/odyssey/ms4uh0oi/medium",
+      "metadata_hard": "https://data.ninjakiwi.com/btd6/odyssey/ms4uh0oi/hard"
+    },
+    {
+      "id": "mruqtn55",
+      "name": "A Walk in the Park",
+      "description": "Enjoy the views!",
+      "start": 1784772000000,
+      "end": 1785290400000,
+      "metadata_easy": "https://data.ninjakiwi.com/btd6/odyssey/mruqtn55/easy",
+      "metadata_medium": "https://data.ninjakiwi.com/btd6/odyssey/mruqtn55/medium",
+      "metadata_hard": "https://data.ninjakiwi.com/btd6/odyssey/mruqtn55/hard"
+    },
+    {
+      "id": "mrkd1iia",
+      "name": "A Magician's trick",
+      "description": "A true magician never reveals his tricks!",
+      "start": 1784167200000,
+      "end": 1784685600000,
+      "metadata_easy": "https://data.ninjakiwi.com/btd6/odyssey/mrkd1iia/easy",
+      "metadata_medium": "https://data.ninjakiwi.com/btd6/odyssey/mrkd1iia/medium",
+      "metadata_hard": "https://data.ninjakiwi.com/btd6/odyssey/mrkd1iia/hard"
+    },
+    {
+      "id": "mrbu9pbx",
+      "name": "Aqua Monkey Fleet ",
+      "description": "Everyone loves water levels...right?",
+      "start": 1783562400000,
+      "end": 1784080800000,
+      "metadata_easy": "https://data.ninjakiwi.com/btd6/odyssey/mrbu9pbx/easy",
+      "metadata_medium": "https://data.ninjakiwi.com/btd6/odyssey/mrbu9pbx/medium",
+      "metadata_hard": "https://data.ninjakiwi.com/btd6/odyssey/mrbu9pbx/hard"
+    },
+    {
+      "id": "mr2ksyj7",
+      "name": "ABR but harder",
+      "description": "A harder version of an already more difficult roundset? Let's get right into it!",
+      "start": 1782957600000,
+      "end": 1783476000000,
+      "metadata_easy": "https://data.ninjakiwi.com/btd6/odyssey/mr2ksyj7/easy",
+      "metadata_medium": "https://data.ninjakiwi.com/btd6/odyssey/mr2ksyj7/medium",
+      "metadata_hard": "https://data.ninjakiwi.com/btd6/odyssey/mr2ksyj7/hard"
+    },
+    {
+      "id": "mqpekccg",
+      "name": "Close & Personal",
+      "description": "It's going to get close and personal in this Short Range themed Odyssey!",
+      "start": 1782352800000,
+      "end": 1782871200000,
+      "metadata_easy": "https://data.ninjakiwi.com/btd6/odyssey/mqpekccg/easy",
+      "metadata_medium": "https://data.ninjakiwi.com/btd6/odyssey/mqpekccg/medium",
+      "metadata_hard": "https://data.ninjakiwi.com/btd6/odyssey/mqpekccg/hard"
+    },
+    {
+      "id": "mqfb29ag",
+      "name": "Number Crunchers",
+      "description": "Looking for financial advice? We got you covered in this Odyssey",
+      "start": 1781748000000,
+      "end": 1782266400000,
+      "metadata_easy": "https://data.ninjakiwi.com/btd6/odyssey/mqfb29ag/easy",
+      "metadata_medium": "https://data.ninjakiwi.com/btd6/odyssey/mqfb29ag/medium",
+      "metadata_hard": "https://data.ninjakiwi.com/btd6/odyssey/mqfb29ag/hard"
+    },
+    {
+      "id": "mq5b9r56",
+      "name": "Ability Mayhem",
+      "description": "Buttons shall be pressed in this Odyssey!",
+      "start": 1781143200000,
+      "end": 1781661600000,
+      "metadata_easy": "https://data.ninjakiwi.com/btd6/odyssey/mq5b9r56/easy",
+      "metadata_medium": "https://data.ninjakiwi.com/btd6/odyssey/mq5b9r56/medium",
+      "metadata_hard": "https://data.ninjakiwi.com/btd6/odyssey/mq5b9r56/hard"
+    },
+    {
+      "id": "mpw0mjs1",
+      "name": "Field Work",
+      "description": "Sometimes you just gotta get the Army mobilized and take the fight to the Bloons!",
+      "start": 1780538400000,
+      "end": 1781056800000,
+      "metadata_easy": "https://data.ninjakiwi.com/btd6/odyssey/mpw0mjs1/easy",
+      "metadata_medium": "https://data.ninjakiwi.com/btd6/odyssey/mpw0mjs1/medium",
+      "metadata_hard": "https://data.ninjakiwi.com/btd6/odyssey/mpw0mjs1/hard"
+    },
+    {
+      "id": "mpl7sm9w",
+      "name": "Martial Monkeys",
+      "description": "Master the art of Monkey Martial Arts!",
+      "start": 1779933600000,
+      "end": 1780452000000,
+      "metadata_easy": "https://data.ninjakiwi.com/btd6/odyssey/mpl7sm9w/easy",
+      "metadata_medium": "https://data.ninjakiwi.com/btd6/odyssey/mpl7sm9w/medium",
+      "metadata_hard": "https://data.ninjakiwi.com/btd6/odyssey/mpl7sm9w/hard"
+    },
+    {
+      "id": "mpbd858c",
+      "name": "Bottoms Up!",
+      "description": "We only allow Bottom Paths in this Odyssey... are you prepared?!",
+      "start": 1779328800000,
+      "end": 1779847200000,
+      "metadata_easy": "https://data.ninjakiwi.com/btd6/odyssey/mpbd858c/easy",
+      "metadata_medium": "https://data.ninjakiwi.com/btd6/odyssey/mpbd858c/medium",
+      "metadata_hard": "https://data.ninjakiwi.com/btd6/odyssey/mpbd858c/hard"
+    },
+    {
+      "id": "mp3etuqo",
+      "name": "Summoner's Right",
+      "description": "Summoners have souls!",
+      "start": 1778724000000,
+      "end": 1779242400000,
+      "metadata_easy": "https://data.ninjakiwi.com/btd6/odyssey/mp3etuqo/easy",
+      "metadata_medium": "https://data.ninjakiwi.com/btd6/odyssey/mp3etuqo/medium",
+      "metadata_hard": "https://data.ninjakiwi.com/btd6/odyssey/mp3etuqo/hard"
+    }
+  ],
+  "model": {
+    "name": "_btd6odyssey",
+    "parameters": {
+      "id": {
+        "description": "Odyssey Event ID",
+        "type": "string"
+      },
+      "name": {
+        "description": "Odyssey Name",
+        "type": "string"
+      },
+      "description": {
+        "description": "Odyssey Description",
+        "type": "string"
+      },
+      "start": {
+        "description": "Odyssey start time in unix epoch milliseconds",
+        "type": "number"
+      },
+      "end": {
+        "description": "Odyssey end time in unix epoch milliseconds",
+        "type": "number"
+      },
+      "metadata_easy": {
+        "description": "URL to Easy Mode Settings",
+        "type": "string"
+      },
+      "metadata_medium": {
+        "description": "URL to Medium Mode Settings",
+        "type": "string"
+      },
+      "metadata_hard": {
+        "description": "URL to Hard Mode Settings",
+        "type": "string"
+      }
+    }
+  },
+  "next": null,
+  "prev": null
+}
