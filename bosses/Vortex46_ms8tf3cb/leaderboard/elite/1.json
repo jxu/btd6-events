@@ -26,29 +26,6 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9ce942dedd93a8a61e13871f5b7be77ec8054beacc428e31"
     },
     {
-      "displayName": "ikun",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "time",
-          "score": 333867,
-          "name": "Least Cash"
-        },
-        {
-          "type": "time",
-          "score": 226231000,
-          "name": "Game Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fbd4382d996fef34a4bdd4c0d7ab3719d064ce89845893d"
-    },
-    {
       "displayName": "Gone",
       "score": 5,
       "scoreParts": [
@@ -233,7 +210,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fba1683dd97fda64c438e4d5c72e0219d0d1cb49812d169"
     },
     {
-      "displayName": "YT LokiBTD",
+      "displayName": "YT LokiBTD6",
       "score": 5,
       "scoreParts": [
         {
@@ -576,6 +553,29 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbf11ddd89ff1a01a448a4f0e72e6249d0c4eb49d44893d"
+    },
+    {
+      "displayName": "Rubikscuber",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "time",
+          "score": 808317,
+          "name": "Least Cash"
+        },
+        {
+          "type": "time",
+          "score": 238441000,
+          "name": "Game Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbc1ed889c2f9f04d118d490e77e323c5551ae89c19d83e"
     }
   ],
   "model": {
