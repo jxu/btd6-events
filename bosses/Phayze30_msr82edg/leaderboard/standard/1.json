@@ -3,7 +3,7 @@
   "success": true,
   "body": [
     {
-      "displayName": "Spacekitty23",
+      "displayName": "NK Plz fix",
       "score": 5,
       "scoreParts": [
         {
@@ -24,29 +24,6 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb8458cd696fba34d438a4b5f7be270ca5048bb9f42d03f"
-    },
-    {
-      "displayName": "Pat Rulez",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "time",
-          "score": 98083,
-          "name": "Least Cash"
-        },
-        {
-          "type": "time",
-          "score": 347898000,
-          "name": "Game Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fb815de8bc3f9f31810dc4d0b22e171cd024cb59f13de3f"
     },
     {
       "displayName": "FraiseTagada",
@@ -576,6 +553,29 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9cea12dade9fffa049148e1d0c22e471c8004bef9612de69"
+    },
+    {
+      "displayName": "dlugi",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "time",
+          "score": 149283,
+          "name": "Least Cash"
+        },
+        {
+          "type": "time",
+          "score": 329308000,
+          "name": "Game Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9ced158edd95a8a44e4b874e5677e676cd561cbf9f178c6a"
     }
   ],
   "model": {
