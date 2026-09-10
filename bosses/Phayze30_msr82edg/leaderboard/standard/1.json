@@ -3,29 +3,6 @@
   "success": true,
   "body": [
     {
-      "displayName": "NK Plz fix",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "time",
-          "score": 96800,
-          "name": "Least Cash"
-        },
-        {
-          "type": "time",
-          "score": 420363000,
-          "name": "Game Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fb8458cd696fba34d438a4b5f7be270ca5048bb9f42d03f"
-    },
-    {
       "displayName": "FraiseTagada",
       "score": 5,
       "scoreParts": [
@@ -486,7 +463,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb71e83dd9ff9ac4d46871e5a75e0709d051dea98198c6c"
     },
     {
-      "displayName": "2year dagestan",
+      "displayName": "SGB STINKS",
       "score": 5,
       "scoreParts": [
         {
@@ -576,6 +553,29 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9ced158edd95a8a44e4b874e5677e676cd561cbf9f178c6a"
+    },
+    {
+      "displayName": "lazerkazoo",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "time",
+          "score": 151900,
+          "name": "Least Cash"
+        },
+        {
+          "type": "time",
+          "score": 354493000,
+          "name": "Game Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbb1fd98b94f8a41117da1d5d20e377ca524ce99917df3a"
     }
   ],
   "model": {

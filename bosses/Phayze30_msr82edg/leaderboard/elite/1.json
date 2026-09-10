@@ -3,34 +3,6 @@
   "success": true,
   "body": [
     {
-      "displayName": "NK Plz fix",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "number",
-          "score": 87,
-          "name": "Tier Count"
-        },
-        {
-          "type": "time",
-          "score": 2081800,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 129780000,
-          "name": "Submission Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fb8458cd696fba34d438a4b5f7be270ca5048bb9f42d03f"
-    },
-    {
       "displayName": "Gone",
       "score": 5,
       "scoreParts": [
@@ -59,7 +31,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbe1fddddc4fef64d41861f5873e377c9524eb99614d86c"
     },
     {
-      "displayName": "jolene",
+      "displayName": "spacekitty675",
       "score": 5,
       "scoreParts": [
         {
@@ -87,7 +59,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbf43d9d796aaac1c41de4e5e7be672cc511aeacc138a39"
     },
     {
-      "displayName": "2year dagestan",
+      "displayName": "SGB STINKS",
       "score": 5,
       "scoreParts": [
         {
@@ -255,7 +227,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fee138a89c2fca51d1089480e73e222cb5014b59611d131"
     },
     {
-      "displayName": "lucy",
+      "displayName": "pulse",
       "score": 5,
       "scoreParts": [
         {
@@ -535,7 +507,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbc1ed889c2f9f04d118d490e77e323c5551ae89c19d83e"
     },
     {
-      "displayName": "Faffanier",
+      "displayName": "ISAB",
       "score": 5,
       "scoreParts": [
         {
@@ -701,6 +673,34 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbf41df8b95aff64914891a5e27e576ce0418bd9d148a69"
+    },
+    {
+      "displayName": "Nightmare",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "number",
+          "score": 96,
+          "name": "Tier Count"
+        },
+        {
+          "type": "time",
+          "score": 1857600,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 420780000,
+          "name": "Submission Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbd4488de91acad1010864c5c71ef269e0c4fef9b12dd39"
     }
   ],
   "model": {

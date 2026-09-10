@@ -3,29 +3,6 @@
   "success": true,
   "body": [
     {
-      "displayName": "NK Plz fix",
-      "score": 5,
-      "scoreParts": [
-        {
-          "type": "number",
-          "score": 5,
-          "name": "Boss Tier"
-        },
-        {
-          "type": "time",
-          "score": 130517,
-          "name": "Least Cash"
-        },
-        {
-          "type": "time",
-          "score": 432253000,
-          "name": "Game Time"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fb8458cd696fba34d438a4b5f7be270ca5048bb9f42d03f"
-    },
-    {
       "displayName": "Ghgys",
       "score": 5,
       "scoreParts": [
@@ -210,7 +187,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbd158cd697fba51f138d4d0d22b073980214bec818de69"
     },
     {
-      "displayName": "lucy",
+      "displayName": "pulse",
       "score": 5,
       "scoreParts": [
         {
@@ -233,7 +210,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9cec1fd98c93adf01e1088185f22b324ca5649e89c41de30"
     },
     {
-      "displayName": "2year dagestan",
+      "displayName": "SGB STINKS",
       "score": 5,
       "scoreParts": [
         {
@@ -576,6 +553,29 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9cb615de899facf71b47861e0c70b277cc554cbb9742dd69"
+    },
+    {
+      "displayName": "lyx",
+      "score": 5,
+      "scoreParts": [
+        {
+          "type": "number",
+          "score": 5,
+          "name": "Boss Tier"
+        },
+        {
+          "type": "time",
+          "score": 164233,
+          "name": "Least Cash"
+        },
+        {
+          "type": "time",
+          "score": 361591000,
+          "name": "Game Time"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb6458f8991f9a11d16db185b27e021cb551ebfcc45d03a"
     }
   ],
   "model": {
