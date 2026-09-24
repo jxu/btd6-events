@@ -3,7 +3,7 @@
   "success": true,
   "body": [
     {
-      "displayName": "blankie",
+      "displayName": "ISAB",
       "score": 195600,
       "scoreParts": [
         {
@@ -21,7 +21,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9ce9468ad6c2ffad1c168e1f0e20e521cd0c1bedc813d03d"
     },
     {
-      "displayName": "spacekitty675",
+      "displayName": "icy_gatino.png",
       "score": 198600,
       "scoreParts": [
         {
@@ -219,7 +219,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9ced158ad6c5faf64d408e1e5f22b424cd0148b99a46d96e"
     },
     {
-      "displayName": "ISAB",
+      "displayName": "MageMagical",
       "score": 226333,
       "scoreParts": [
         {
@@ -561,24 +561,6 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb616ded997aaa01c43884d0a7ab4249e571aea9b438e69"
     },
     {
-      "displayName": "Fenix - YT",
-      "score": 236767,
-      "scoreParts": [
-        {
-          "type": "time",
-          "score": 236767,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 51305000,
-          "name": "Time after event start"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9ced1f83dac5ada61e16da435c71b070c9521eb89c13d830"
-    },
-    {
       "displayName": "L3monZzz",
       "score": 236967,
       "scoreParts": [
@@ -901,6 +883,24 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbb468ad89eaaf44d418b4d567ab2739e5619ea9e12d83e"
+    },
+    {
+      "displayName": "Zzzzbaa",
+      "score": 241067,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 241067,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 340092000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb9158fd997ada64a408d1f0c26e2709d554cbc9745de31"
     }
   ],
   "model": {

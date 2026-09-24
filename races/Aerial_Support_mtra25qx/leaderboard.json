@@ -21,7 +21,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9ced11d9df93faa44e40864e0d7bb776ce054fea9914d16e"
     },
     {
-      "displayName": "blankie",
+      "displayName": "ISAB",
       "score": 147667,
       "scoreParts": [
         {
@@ -57,7 +57,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9cee14da8c90f1a2194bd943587be371ce511ebbcd10dc39"
     },
     {
-      "displayName": "moneybu",
+      "displayName": "icy_gatino.png",
       "score": 148883,
       "scoreParts": [
         {
@@ -217,24 +217,6 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbc4189d99ef8a74e428f1e5722e771c80619efcb188a3e"
-    },
-    {
-      "displayName": "TIO MAROMBA",
-      "score": 157833,
-      "scoreParts": [
-        {
-          "type": "time",
-          "score": 157833,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 336805000,
-          "name": "Time after event start"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9fbf158cdfc4fca71f148c4b5871e775ca0514e9cb458c3b"
     },
     {
       "displayName": "YT-Jefreyds",
@@ -525,7 +507,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbc468f8d90f0a51045864d5c7be771c9524fb9c819d83d"
     },
     {
-      "displayName": "ISAB",
+      "displayName": "MageMagical",
       "score": 162483,
       "scoreParts": [
         {
@@ -577,24 +559,6 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbf43df8bc0adf34e46dd420d27e476c50118bd9b43dc6b"
-    },
-    {
-      "displayName": "Fenix - YT",
-      "score": 162633,
-      "scoreParts": [
-        {
-          "type": "time",
-          "score": 162633,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 37749000,
-          "name": "Time after event start"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9ced1f83dac5ada61e16da435c71b070c9521eb89c13d830"
     },
     {
       "displayName": "Bentheman",
@@ -901,6 +865,42 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbc41dadf9faaf14d10874c5c72b773cd0315b5cf44da6b"
+    },
+    {
+      "displayName": "Ice Strider",
+      "score": 164900,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 164900,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 182552000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fbf1e8fd993fba34d13dd1f0d7be5769d571bbb9e43893f"
+    },
+    {
+      "displayName": "TealZebra3229",
+      "score": 164967,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 164967,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 134985000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fb6178cd8c3fca44d438b420b26e774c9521fb99e42db3e"
     }
   ],
   "model": {
