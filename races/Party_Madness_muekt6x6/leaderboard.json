@@ -3,7 +3,7 @@
   "success": true,
   "body": [
     {
-      "displayName": "fixmemoryleak",
+      "displayName": "Dawid",
       "score": 128383,
       "scoreParts": [
         {
@@ -145,24 +145,6 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fb843dd8d9eadf34b47dd1a0b21e77fcb551abacf168b69"
-    },
-    {
-      "displayName": "Nether",
-      "score": 143467,
-      "scoreParts": [
-        {
-          "type": "time",
-          "score": 143467,
-          "name": "Game Time"
-        },
-        {
-          "type": "time",
-          "score": 217011000,
-          "name": "Time after event start"
-        }
-      ],
-      "submissionTime": -1,
-      "profile": "https://data.ninjakiwi.com/btd6/users/9cea428f89c7fdf04e45d91f0e74e77fcc571dbecc458c6d"
     },
     {
       "displayName": "PlastiCine",
@@ -633,7 +615,7 @@
       "profile": "https://data.ninjakiwi.com/btd6/users/9fba1fdedd9eafa710138c490c27e721c9051bbc99458d3b"
     },
     {
-      "displayName": "TRUCE WITH UNI",
+      "displayName": "read names",
       "score": 165217,
       "scoreParts": [
         {
@@ -901,6 +883,24 @@
       ],
       "submissionTime": -1,
       "profile": "https://data.ninjakiwi.com/btd6/users/9fbc158edfc0afa011148b4a0a22b47fcc5218b49915de31"
+    },
+    {
+      "displayName": "sola",
+      "score": 181817,
+      "scoreParts": [
+        {
+          "type": "time",
+          "score": 181817,
+          "name": "Game Time"
+        },
+        {
+          "type": "time",
+          "score": 107074000,
+          "name": "Time after event start"
+        }
+      ],
+      "submissionTime": -1,
+      "profile": "https://data.ninjakiwi.com/btd6/users/9fee108e8ec2abf31c44dd4c5e73e372cb0249ee96168c3b"
     }
   ],
   "model": {
