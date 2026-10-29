@@ -1,0 +1,131 @@
+{
+  "error": null,
+  "success": true,
+  "body": [
+    {
+      "id": "Brickells_Zen_Garden_mvjyxbl6",
+      "name": "Brickells Zen Garden",
+      "start": 1792720800000,
+      "end": 1793070000000,
+      "totalScores": 16995,
+      "leaderboard": "https://data.ninjakiwi.com/btd6/races/Brickells_Zen_Garden_mvjyxbl6/leaderboard",
+      "metadata": "https://data.ninjakiwi.com/btd6/races/Brickells_Zen_Garden_mvjyxbl6/metadata"
+    },
+    {
+      "id": "Loud_Street_mv9zuq9d",
+      "name": "Loud Street",
+      "start": 1792116000000,
+      "end": 1792465200000,
+      "totalScores": 23219,
+      "leaderboard": "https://data.ninjakiwi.com/btd6/races/Loud_Street_mv9zuq9d/leaderboard",
+      "metadata": "https://data.ninjakiwi.com/btd6/races/Loud_Street_mv9zuq9d/metadata"
+    },
+    {
+      "id": "Birds_Eye_View_mux45a8y",
+      "name": "Birds Eye View",
+      "start": 1791511200000,
+      "end": 1791860400000,
+      "totalScores": 35767,
+      "leaderboard": "https://data.ninjakiwi.com/btd6/races/Birds_Eye_View_mux45a8y/leaderboard",
+      "metadata": "https://data.ninjakiwi.com/btd6/races/Birds_Eye_View_mux45a8y/metadata"
+    },
+    {
+      "id": "Slip_n_Slide_mulenfi8",
+      "name": "Slip n Slide",
+      "start": 1790906400000,
+      "end": 1791255600000,
+      "totalScores": 7560,
+      "leaderboard": "https://data.ninjakiwi.com/btd6/races/Slip_n_Slide_mulenfi8/leaderboard",
+      "metadata": "https://data.ninjakiwi.com/btd6/races/Slip_n_Slide_mulenfi8/metadata"
+    },
+    {
+      "id": "Party_Madness_muekt6x6",
+      "name": "Party Madness",
+      "start": 1790301600000,
+      "end": 1790650800000,
+      "totalScores": 7276,
+      "leaderboard": "https://data.ninjakiwi.com/btd6/races/Party_Madness_muekt6x6/leaderboard",
+      "metadata": "https://data.ninjakiwi.com/btd6/races/Party_Madness_muekt6x6/metadata"
+    },
+    {
+      "id": "Adoras_Temple_Race_mt7bs7il",
+      "name": "Adora's Temple Race",
+      "start": 1787882400000,
+      "end": 1788231600000,
+      "totalScores": 11515,
+      "leaderboard": "https://data.ninjakiwi.com/btd6/races/Adoras_Temple_Race_mt7bs7il/leaderboard",
+      "metadata": "https://data.ninjakiwi.com/btd6/races/Adoras_Temple_Race_mt7bs7il/metadata"
+    },
+    {
+      "id": "Three_Mines_Back_Around_msxclkeg",
+      "name": "Three Mines Back Around",
+      "start": 1787277600000,
+      "end": 1787626800000,
+      "totalScores": 0,
+      "leaderboard": "https://data.ninjakiwi.com/btd6/races/Three_Mines_Back_Around_msxclkeg/leaderboard",
+      "metadata": "https://data.ninjakiwi.com/btd6/races/Three_Mines_Back_Around_msxclkeg/metadata"
+    },
+    {
+      "id": "Cubistic_Dreams_msn8pk0x",
+      "name": "Cubistic Dreams",
+      "start": 1786672800000,
+      "end": 1787022000000,
+      "totalScores": 0,
+      "leaderboard": "https://data.ninjakiwi.com/btd6/races/Cubistic_Dreams_msn8pk0x/leaderboard",
+      "metadata": "https://data.ninjakiwi.com/btd6/races/Cubistic_Dreams_msn8pk0x/metadata"
+    },
+    {
+      "id": "Two_Pieces_mse433cc",
+      "name": "Two Pieces",
+      "start": 1786068000000,
+      "end": 1786417200000,
+      "totalScores": 0,
+      "leaderboard": "https://data.ninjakiwi.com/btd6/races/Two_Pieces_mse433cc/leaderboard",
+      "metadata": "https://data.ninjakiwi.com/btd6/races/Two_Pieces_mse433cc/metadata"
+    },
+    {
+      "id": "Tough_Candy_ms4ugwkz",
+      "name": "Tough Candy",
+      "start": 1785463200000,
+      "end": 1785812400000,
+      "totalScores": 0,
+      "leaderboard": "https://data.ninjakiwi.com/btd6/races/Tough_Candy_ms4ugwkz/leaderboard",
+      "metadata": "https://data.ninjakiwi.com/btd6/races/Tough_Candy_ms4ugwkz/metadata"
+    }
+  ],
+  "model": {
+    "name": "_btd6race",
+    "parameters": {
+      "id": {
+        "description": "Race Event ID",
+        "type": "string"
+      },
+      "name": {
+        "description": "Race Name",
+        "type": "string"
+      },
+      "start": {
+        "description": "Race start time in unix epoch milliseconds",
+        "type": "number"
+      },
+      "end": {
+        "description": "Race end time in unix epoch milliseconds",
+        "type": "number"
+      },
+      "totalScores": {
+        "description": "The total number of scores submitted",
+        "type": "number"
+      },
+      "leaderboard": {
+        "description": "URL to leaderboard data",
+        "type": "string"
+      },
+      "metadata": {
+        "description": "URL to full Race metadata",
+        "type": "string"
+      }
+    }
+  },
+  "next": null,
+  "prev": null
+}
